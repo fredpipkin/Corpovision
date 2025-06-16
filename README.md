@@ -1,0 +1,3 @@
+Scraper folder - This folder contains the Python backend that powers Corpovision. It uses SerpAPI to locate official company websites, scrapes “About Us” pages with Trafilatura, and analyzes language using TextBlob and Textstat. The script outputs a JSON file containing raw corporate text, sentiment scores, readability metrics, and keyword frequencies
+
+Front end - This is the frontend of Corpovision — a glitchy, anti-corporate web interface built with HTML. It randomly displays fragments of scraped “About Us” language each time the orb is clicked. The design aesthetic is retro, absurd, and confrontational, reflecting the project’s satirical critique of branding and tech utopianism.
