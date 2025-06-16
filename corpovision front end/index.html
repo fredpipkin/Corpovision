@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Corpovision Orb</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #000;
+      color: #00ff00;
+      font-family: 'Courier New', Courier, monospace;
+      text-shadow: 0 0 2px #00ff00;
+    }
+    .orb {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background: radial-gradient(circle at 30% 30%, #00ff88, #004422);
+      animation: spin 6s linear infinite;
+      margin: auto;
+      cursor: pointer;
+      box-shadow: 0 0 20px #00ff88, 0 0 40px #00ff88;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    .retro-box {
+      border: 2px solid #00ff00;
+      padding: 1rem;
+      background-color: rgba(0, 255, 0, 0.05);
+      box-shadow: 0 0 10px #00ff00;
+    }
+    h1, h2 {
+      letter-spacing: 2px;
+    }
+    .typewriter span {
+      display: inline-block;
+      opacity: 0;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col items-center justify-center">
+  <div class="text-center mb-6">
+    <h1 class="text-3xl font-bold mb-2">CORPOVISION TERMINAL</h1>
+    <p class="text-green-400">[Click the orb below to synthesize a corporation]</p>
+  </div>
+  <div class="orb" id="orb"></div>
+  <div id="output" class="retro-box mt-8 w-full max-w-lg"></div>
+
+  <script type="module">
+    const fetchData = async () => {
+      const res = await fetch('about_pages_nlp.json')
+      return await res.json()
+    }
+
+    function pickRandom(arr) {
+      return arr[Math.floor(Math.random() * arr.length)]
+    }
+
+    function generateFakeName() {
+      const prefixes = [
+        "Neo", "Cyber", "Omni", "Hyper", "Astra", "Info", "Meta", "Globo", "Quantum",
+        "Trans", "Syn", "Nova", "Ultra", "Intra", "Inter", "Opti", "Lux", "Techno", "Fusion",
+        "Solar", "Core", "Plasma", "Viral", "Macro", "Neuro", "Xeno", "Penta", "Strato", "Cryo"
+      ]
+      const suffixes = [
+        "Corp", "Systems", "Industries", "Solutions", "Dynamics", "Enterprises", "Labs", "Group",
+        "Networks", "Holdings", "Matrix", "Logic", "Interface", "Initiative", "Works", "Machine",
+        "Platform", "Drive", "Grid", "Vault", "Syndicate", "Collective", "Link", "Zone", "Stack"
+      ]
+      return `${pickRandom(prefixes)}${pickRandom(suffixes)}`
+    }
+
+    const generateFakeAbout = (data) => {
+      const company = pickRandom(data)
+      const fakeName = generateFakeName()
+      const sentence1 = `At ${fakeName}, we champion ${pickRandom(company.nlp.keywords.map(k => k[0]))} and ${pickRandom(company.nlp.keywords.map(k => k[0]))}.`
+      const sentence2 = `As a leader in the ${company.sector.toLowerCase()} sector, our goal is ${pickRandom(company.nlp.keywords.map(k => k[0]))} innovation.`
+      const sentence3 = `We believe in values like ${pickRandom(company.nlp.keywords.map(k => k[0]))} and ${pickRandom(company.nlp.keywords.map(k => k[0]))}.`
+      return `
+        <h2 class="text-xl font-bold">${fakeName}™</h2>
+        <p class="text-sm italic mb-2">Sector: ${company.sector}</p>
+        <div class="typewriter">
+          ${[sentence1, sentence2, sentence3, 'Inspired by real corp-speak.'].map(s => `<span>${s}</span>`).join('<br>')}
+        </div>
+      `
+    }
+
+    function typeWriterEffect(container) {
+      const spans = container.querySelectorAll('span')
+      spans.forEach((span, i) => {
+        setTimeout(() => {
+          span.style.opacity = 1
+        }, i * 300)
+      })
+    }
+
+    let cache = []
+    document.getElementById("orb").addEventListener("click", async () => {
+      if (!cache.length) cache = await fetchData()
+      document.getElementById("output").innerHTML = generateFakeAbout(cache)
+      typeWriterEffect(document.getElementById("output"))
+    })
+  </script>
+</body>
+</html>

@@ -1,0 +1,1908 @@
+[
+  {
+    "name": "Apple",
+    "sector": "Technology",
+    "base_url": "https://www.apple.com/",
+    "about_url": "https://www.apple.com/about",
+    "text": "Apple Site Map\n-\nAbout Apple\n-\nApple Values\n-\nNews and Events\n-\nWhere to Buy\n-\nStore Services\n-\nAccount\n-\nFor Education\n-\nFor Business\nMac\n-\nShop and Learn\n-\nApple Accessories\n-\nMac Accessories\n-\nApplications\n-\nMore Mac\n-\nSupport\niPad\n-\nShop and Learn\n-\nApple Accessories\n-\niPad Accessories\n-\nApplications\n-\nMore iPad\n-\nSupport\niPhone\n-\nShop and Learn\n-\niPhone Accessories\n-\nApplications\n-\nMore iPhone\n-\nSupport\nApple Watch\n-\nShop and Learn\n-\nApple Watch Accessories\n-\nMore Apple Watch\n-\nSupport\nApple Vision Pro\n-\nShop and Learn\n-\nApple Vision Pro Accessories\n-\nMore Vision\n-\nSupport\nAirPods\n-\nShop and Learn\n-\nAirPods Accessories\n-\nMore AirPods\n-\nSupport\nTV & Home\n-\nShop and Learn\n-\nTV & Home Accessories\n-\nMore TV & Home\n-\nSupport\nEntertainment\n-\nExplore\n-\nApple Wallet\n-\nMore Services\n-\nSupport\nAccessories\n-\nFeatured Accessories\n-\nShop by Product\n-\nShop by Category\nToday at Apple\n-\n-\nToday at Apple Calendar",
+    "nlp": {
+      "keywords": [
+        [
+          "apple",
+          13
+        ],
+        [
+          "accessories",
+          11
+        ],
+        [
+          "shop",
+          9
+        ],
+        [
+          "and",
+          8
+        ],
+        [
+          "more",
+          8
+        ],
+        [
+          "support",
+          8
+        ],
+        [
+          "learn",
+          7
+        ],
+        [
+          "mac",
+          3
+        ],
+        [
+          "applications",
+          3
+        ],
+        [
+          "ipad",
+          3
+        ],
+        [
+          "iphone",
+          3
+        ],
+        [
+          "watch",
+          3
+        ],
+        [
+          "vision",
+          3
+        ],
+        [
+          "airpods",
+          3
+        ],
+        [
+          "home",
+          3
+        ]
+      ],
+      "sentiment_polarity": 0.5,
+      "sentiment_subjectivity": 0.5,
+      "readability": {
+        "flesch_reading_ease": -74.14170731707314,
+        "smog_index": 28.677278017228545,
+        "gunning_fog": 55.37886178861788
+      }
+    }
+  },
+  {
+    "name": "Amazon",
+    "sector": "Retail",
+    "base_url": "https://www.amazon.com/",
+    "about_url": "https://www.amazon.com/about",
+    "text": "1 / 10\nNewsfeed\nNewsfeed\nTrending Now\nCatch up on \u2018The Summer I Turned Pretty\u2019 before the third and final season returns to Prime Video on July 16.\nPrime Air built an easy-to-use customer experience to make ordering and receiving a wide selection of items via drone delivery faster than ever.\nPrime Video's fourth season of 'Thursday Night Football' is packed with divisional matchups and features two holiday showdowns.\nTake a sneak peek at the experience, which rolls out in beta today to select Amazon Music Unlimited subscribers in the U.S.\nInnovation and AI\nWe're improving customer experiences through innovation and artificial intelligence (AI).\nBuilt on advances in robotics, engineering, and physical AI, Vulcan is making our workers\u2019 jobs easier and safer while moving orders more efficiently.\nThis technology, which derives from Amazon\u2019s Vision-Assisted Package Retrieval (VAPR) system for delivery vans, uses visual cues to help employees identify the packages during the sorting process.\nThe joint investment in AI infrastructure, AWS services, and AI training and talent development will advance Saudi Arabia\u2019s mission to be a global leader in AI.\nThe new AI shopping experts help save time by compiling research and providing product highlights for customers from product pages, reviews, and insights.\nPrime shopping and benefits\nAn Amazon Prime membership comes with much more than fast, free delivery.\nCheck out what films, series, sports, and fresh episodes are premiering in May on the streaming service.\nFind out how to watch the Oscar-winning film, included with a Prime membership and available to rent or buy.\nCheck out what films, series, sports, and fresh episodes are premiering in June on the streaming service.\nShop epic deals exclusive for Prime members around the world.\nLife at Amazon\nOur culture of innovation and scale powers world-changing ideas and creates a safe, inclusive environment.\nJassy learned important lessons during his transition to CEO of Amazon, including one surprising thing he didn\u2019t think was going to be a big deal.\nJassy believes the best leaders are always learning: 'The second you're not learning is the second you're starting to unwind.'\nAn Amazon manager shares tips, examples, and strategies for using the 16 Leadership Principles during your interview process.\nGet an inside look at our innovation center in Dortmund, Germany, where we\u2019re introducing a slew of robotics innovations to help make safe and accurate deliveries.",
+    "nlp": {
+      "keywords": [
+        [
+          "and",
+          19
+        ],
+        [
+          "the",
+          16
+        ],
+        [
+          "prime",
+          7
+        ],
+        [
+          "amazon",
+          6
+        ],
+        [
+          "out",
+          4
+        ],
+        [
+          "innovation",
+          4
+        ],
+        [
+          "for",
+          4
+        ],
+        [
+          "delivery",
+          3
+        ],
+        [
+          "with",
+          3
+        ],
+        [
+          "our",
+          3
+        ],
+        [
+          "help",
+          3
+        ],
+        [
+          "during",
+          3
+        ],
+        [
+          "are",
+          3
+        ],
+        [
+          "newsfeed",
+          2
+        ],
+        [
+          "season",
+          2
+        ]
+      ],
+      "sentiment_polarity": 0.19952978056426335,
+      "sentiment_subjectivity": 0.41140468726675616,
+      "readability": {
+        "flesch_reading_ease": 39.5839202387412,
+        "smog_index": 15.069178484269955,
+        "gunning_fog": 16.209658166033645
+      }
+    }
+  },
+  {
+    "name": "ExxonMobil",
+    "sector": "Energy",
+    "base_url": "https://corporate.exxonmobil.com/",
+    "about_url": "https://corporate.exxonmobil.com/about-us",
+    "text": "Who we are\nWe're committed to responsibly meeting society\u2019s evolving energy needs\nFueling the world safely and responsibly\nWith operations in more than 60 countries globally, our team of 62,000 scientists, engineers, researchers, technicians, professionals and other employees, are focused on safely meeting the world\u2019s energy and product needs \u2013 something we\u2019ve been doing for more than 140 years.\nOur purpose\nOur vision\nOur core values\nIntegrity\n- Be honest and ethical\n- Do what is right\nCare\n- Be respectful and inclusive\n- Look after each other\n- Contribute to the well-being of our communities and the environment\nCourage\n- Take initiative and make a difference\n- Think boldly and act with conviction\n- Take personal ownership\nExcellence\n- Hold ourselves to high standards\n- Be thoughtful, thorough and disciplined\nResilience\n- Be determined and persevere\n- Be purposeful and steadfast in our principles\nOur history\nOver the past 140 years, our company has evolved from a regional marketer of kerosene in the U.S. to one of the largest publicly traded petroleum and petrochemical enterprises in the world. Today we operate in most of the world's countries and are best-known by our familiar brand names: Exxon, Esso and Mobil. We make the products that drive modern transportation, power cities, lubricate industry and provide petrochemical building blocks that lead to thousands of consumer goods.\nLearn more about our history\nOur global organization\nMultiple businesses benefiting from a full set of corporate advantages.\nLearn more about our global organization\nCorporate governance\nGood governance is essential for creating long-term viability of business and the economic development of the communities where we operate.\nLearn more about corporate governance\nOur global brands\nExxonMobil manages an industry-leading portfolio of resources, and is one of the largest integrated fuels, lubricants and chemical companies in the world. We\u2019ve evolved our operating model and global organization to better leverage the scale of our increasingly integrated company and global brands.\nExplore our global brands\nExplore more\nOur approach\nTopic\nInvestor relations\nInvestors\nTopic\nEmergency preparedness\nTopic\n\u2022\nJuly 5, 2024\nBuild a career with us and use your energy to change the world\nCorporate\nTopic",
+    "nlp": {
+      "keywords": [
+        [
+          "and",
+          21
+        ],
+        [
+          "our",
+          17
+        ],
+        [
+          "the",
+          16
+        ],
+        [
+          "world",
+          6
+        ],
+        [
+          "more",
+          6
+        ],
+        [
+          "global",
+          6
+        ],
+        [
+          "corporate",
+          4
+        ],
+        [
+          "topic",
+          4
+        ],
+        [
+          "are",
+          3
+        ],
+        [
+          "energy",
+          3
+        ],
+        [
+          "with",
+          3
+        ],
+        [
+          "learn",
+          3
+        ],
+        [
+          "about",
+          3
+        ],
+        [
+          "organization",
+          3
+        ],
+        [
+          "governance",
+          3
+        ]
+      ],
+      "sentiment_polarity": 0.22334994462901442,
+      "sentiment_subjectivity": 0.3525359911406424,
+      "readability": {
+        "flesch_reading_ease": 11.579894736842135,
+        "smog_index": 20.64404841556777,
+        "gunning_fog": 23.972397660818714
+      }
+    }
+  },
+  {
+    "name": "Toyota",
+    "sector": "Automotive",
+    "base_url": "https://www.toyota.com/",
+    "about_url": "https://www.toyota.com/about",
+    "text": "Our Beyond Zero Vision\nBeyond Zero is Toyota\u2019s vision to reach beyond carbon neutrality with our products, services and operations, and find new ways to make a positive impact on our planet and society.\nWe\u2019re in the business of making great cars and trucks. But we also work every day to apply and share our know-how in ways that benefit people, the community, and our planet in order to build a better tomorrow.\nWe create vehicles by listening and responding to you. Why? Because it\u2019s our belief that our cars should do more than help you go places on the road, they should also help you go places in life.\nWe make vehicles that respond to, and anticipate, your needs for the way you live today \u2014 with advances in sustainable mobility and advanced safety technologies. Find out more about how our operations are improving the world we live in today and long into tomorrow.\nThere is only one planet Earth. Which is why we developed a line of vehicles that make the best possible use of our natural resources, and why we ensure that our facilities and plants minimize waste and energy while maximizing efficiency.\nSafety may begin with the driver, but it certainly doesn\u2019t end there. We're constantly innovating and researching ways to help prevent accidents from ever happening, as well as help protect those inside and outside of our vehicles in the unlikely event of an accident. Then we share our research and data with a variety of universities, government institutions and more to help make the roads safe for everyone.\nOur commitment to our customers extends to giving back to the communities where we live, work and play. We\u2019ve contributed nearly $1.1 billion in the U.S. over the past 60 years to support safety, education, and environmental initiatives across the U.S. since 1991. And, we share our production know-how with nonprofits and community partners from food banks to hospitals \u2014 to help them serve more people, more effectively.\nHow do we create some of the most advanced, reliable and safe vehicles? It starts with our manufacturing principles and management philosophy. We\u2019re always looking for ways to improve our operations, always challenging ourselves to innovate, always looking to collaborate, always improving each day in everything we do.",
+    "nlp": {
+      "keywords": [
+        [
+          "and",
+          23
+        ],
+        [
+          "our",
+          17
+        ],
+        [
+          "the",
+          14
+        ],
+        [
+          "with",
+          6
+        ],
+        [
+          "help",
+          6
+        ],
+        [
+          "that",
+          5
+        ],
+        [
+          "vehicles",
+          5
+        ],
+        [
+          "more",
+          5
+        ],
+        [
+          "ways",
+          4
+        ],
+        [
+          "make",
+          4
+        ],
+        [
+          "how",
+          4
+        ],
+        [
+          "you",
+          4
+        ],
+        [
+          "always",
+          4
+        ],
+        [
+          "beyond",
+          3
+        ],
+        [
+          "operations",
+          3
+        ]
+      ],
+      "sentiment_polarity": 0.25718221172766625,
+      "sentiment_subjectivity": 0.4925685425685426,
+      "readability": {
+        "flesch_reading_ease": 45.756261904761914,
+        "smog_index": 13.892738720246978,
+        "gunning_fog": 14.015026455026453
+      }
+    }
+  },
+  {
+    "name": "Pfizer",
+    "sector": "Healthcare",
+    "base_url": "https://www.pfizer.com/",
+    "about_url": "https://www.pfizer.com/about",
+    "text": "1849\nCousins Charles Pfizer and Charles Erhart founded Charles Pfizer & Company in a red brick building in Brooklyn, NY.\nOur Compliance Program represents a shared undertaking from the highest levels of management to the most junior employees.\nBecause everyone has something to offer. Diversity is just as crucial to building a successful business as it is to building a vibrant culture.\nWe integrate environment, health, and safety (EHS) into how we run our business to ensure that management of risk and regulatory compliance are overseen at the highest levels of the company. With our EHS Policy as the foundation, implementation of Pfizer's EHS Standards and Audit programs establish the performance expectations for colleagues around the world. Each Pfizer colleague plays a crucial role in facilitating a culture of EHS excellence where all improvements, ideas, and opportunities are welcomed. Our governance framework and culture provide the basis for proactive engagement and shared accountability of EHS across our operations.\nA network of external suppliers is essential to enable manufacture of medicines and vaccines that deliver breakthroughs that change patients\u2019 lives. Pfizer\u2019s supply chain supports the research, development and manufacturing process by providing flexibility and access to technologies necessary to meet our commitment to patients We are committed to using suppliers that demonstrate strong performance in Environment, Health, and Safety (EHS) management.\nWe recognize that environmental issues can result in profound societal and public health impacts. Our company purpose\u2014Breakthroughs that change patients\u2019 lives\u2014guides our environmental sustainability priorities, with a focus on climate impact mitigation, conservation of resources, and the reduction of waste arising from our operations.\nWe continue to invest in the groundbreaking science and technology needed to discover tomorrow\u2019s life-saving treatments for patients who need them the most. Our research, development, and manufacturing facilities across the country are fostering next-generation healthcare innovation while creating 30,000 U.S.-based jobs.\nWe are dedicated to helping people find accurate, science-based information as they make healthcare decisions that impact their lives.\nAll patients should have access to the medicines they need. Through our partnerships with global health institutions and implementation of novel pricing structures\u2013including donations where appropriate\u2013we blend philanthropy and business approaches to increase access to our medicines and vaccines where they\u2019re needed most.\nMulticultural Health Equity Collective\nInnovation in Medicine Delivery\nWe deliver scientific breakthroughs through the relentless collaboration of our talented workforce. Therefore, ensuring the health, safety and well-being of our workforce is critical to delivering our purpose. We continue to advance a comprehensive occupational injury and illness prevention program that enables engagement and productivity.\nWe\u2019re committed to conducting business in an ethical and responsible manner. This includes respecting internationally recognized human rights throughout our operations.\nThe Intellectual Property Principles for Advancing Cures and Therapies (IP PACT) is a groundbreaking, unified declaration of 10 key Intellectual Property (IP) principles. Driven by members of the innovative biopharmaceutical industry, it affirms our strong commitment to innovation and to keeping the needs of patients at the heart of our IP practice\nWe support the global healthcare community\u2019s independent initiatives to improve patient outcomes in areas of unmet medical need that are aligned with our medical and/or scientific strategies. The grant requester (and ultimately the grantee) is responsible for the design, implementation, sponsorship, and conduct of the independent initiative supported by the grant, including compliance with any regulatory requirements.\nWe believe that public policy engagement is an important and appropriate role for companies in open societies, when conducted in a legal and transparent manner.\nOur corporate political contributions and lobbying activities are focused on promoting the interest of our company, without regard to the personal political preferences or affiliations of any of our employees, offices, or board members.\nWorking with your doctor and other healthcare professionals is essential to gaining the real-world information we need to deliver treatment choices that improve the health of patients. Four main ways these professionals help us to help patients are through research and development, professional advising and consulting, expert-led forums, and in-office information exchange.\nWe invest in innovative medicines and techniques that drive down the costs of medicine as well as patient assistance when patients can\u2019t afford their medicines. We negotiate medicine pricing with insurers who then determine what you pay out of pocket.\nAssociate Research Fellow and Group Leader, Chemical Development Active Pharmaceutical Ingredients\nSenior Vice President of Executive Operations and Chief of Staff and Counsel to the Chairman and CEO\nSenior Director, Oncology Medicinal Chemistry Synthesis and Analytical Group\nSenior Vice President and Chief Scientific Officer, Internal Medicine Research Unit\nAssociate Research Fellow and Group Leader, Chemical Development Active Pharmaceutical Ingredients\nSenior Vice President of Executive Operations and Chief of Staff and Counsel to the Chairman and CEO\nSenior Director, Oncology Medicinal Chemistry Synthesis and Analytical Group\nSenior Vice President and Chief Scientific Officer, Internal Medicine Research Unit\nAssociate Research Fellow and Group Leader, Chemical Development Active Pharmaceutical Ingredients\nSenior Vice President of Executive Operations and Chief of Staff and Counsel to the Chairman and CEO\nSenior Director, Oncology Medicinal Chemistry Synthesis and Analytical Group\nSenior Vice President and Chief Scientific Officer, Internal Medicine Research Unit\nAssociate Research Fellow and Group Leader, Chemical Development Active Pharmaceutical Ingredients\nSenior Vice President of Executive Operations and Chief of Staff and Counsel to the Chairman and CEO\nSenior Director, Oncology Medicinal Chemistry Synthesis and Analytical Group\nSenior Vice President and Chief Scientific Officer, Internal Medicine Research Unit\nCousins Charles Pfizer and Charles Erhart founded Charles Pfizer & Company in a red brick building in Brooklyn, NY.\nPfizer buys and renovates a post-Revolutionary-era building at 81 Maiden Lane in Manhattan and moves its headquarters there.\nThe expansion propelled by the Civil War continues and Pfizer's revenues double.\nThe company now has a substantially increased product line and 150 new employees. To accommodate this growth, it buys and renovates a post-Revolutionary-era building at 81 Maiden Lane in Manhattan and moves its headquarters there. The site carries the Pfizer name for nearly a century.\nCollapseSpurred by America's westward expansion and its own growing number of clients west of the Mississippi, Pfizer opens offices and a warehouse in Chicago, Illinois, its first location outside of New York.\nPfizer files an official certificate of incorporation in the state of New Jersey, with authorized capital of $2 million divided into 20,000 shares of $100 each.\nPfizer would remain a privately held company until June 22, 1942, when 240,000 shares of new common stock were offered to the public.\nCollapseEmile Pfizer was the last member of the Pfizer/Erhart family to be actively involved with the company. He was president from 1906 to 1941.\nEmile Pfizer, Charles Pfizer's youngest son, is appointed President at a special board meeting. He serves as President from 1906 to 1941 and briefly as Chairman in 1941. He is the last member of the Pfizer/Erhart family to be actively involved with the company.\nCollapseAt the age of 82, Charles Pfizer dies while vacationing at his Newport, Rhode Island estate. A tribute to Pfizer in The New York Tribune notes that \"by bringing to his task a thorough German technical education, great industry, and determination, he successfully met all difficulties and each year expanded his business.\" Company sales exceed $3 million.\nJohn Anderson, starting at Pfizer in 1873 as an office boy, opened the company's first branch in Chicago within ten years. Later he served as Chairman of the Board, 1914-1929.\nThe Board of Directors creates the position of Chairman and elects John Anderson to that post. Anderson, who had joined Pfizer in 1873 as a 16-year-old office boy, would remain Chairman until 1929.\nPfizer chemist James Currie and his assistant, Jasper Kane, successfully pioneer the mass production of citric acid from sugar through mold fermentation\u2014an achievement that eventually frees Pfizer from dependency on European citrus growers.\nSpurred by this invention, Kane goes on to develop a new deep-tank fermentation method using molasses rather than refined sugar as raw material\u2014the process that will ultimately unlock the secret for large-scale production of penicillin.\nCollapseCharles Pfizer & Co. turns 75 years old. A celebration at the Brooklyn plant, which has 306 employees, marks the milestone.\nWilliam H. Erhart, son of Charles Erhart, one of the two original founders. He became vice president of the company in 1900 and served as Chairman of the Board from 1929 to 1940.\nOn January 10, 1929, John Anderson announces he is stepping down as chairman of the board. William Erhart is named the new chairman, Emile Pfizer continues to serve as president, and John Anderson's son, George, becomes senior vice president.\nCollapseDoctor Richard Pasternack develops a fermentation-free method for producing ascorbic acid, vitamin C. After building a new plant and initiating a 24-hour-a-day, seven-day-a-week production schedule, Pfizer becomes the world's leading producer of vitamin C.\nEncouraged by this success, Pfizer pushes ahead in 1938 with production of vitamin B-2, or riboflavin, and eventually develops a vitamin mix that includes riboflavin, thiamin, niacin, and iron. From vitamin B-12, the company moves on to vitamin A, and by the late 1940s, Pfizer will become the established leader in the manufacture of vitamins.\nCollapsePfizer succeeds so well in the production of citric acid by fermenting sugar that a pound of citric acid, which had cost $1.25 in 1919, tumbles to 20\u00a2, and Pfizer is widely recognized as a leader in fermentation technology.\nPfizer responds to an appeal from the United States Government to expedite the manufacture of penicillin to treat Allied soldiers fighting in World War II. Of the companies pursuing mass production of penicillin, Pfizer alone uses fermentation technology.\nIn a risky maneuver, Pfizer's senior management invests millions of dollars, putting their own assets as Pfizer stockholders at stake, to buy the equipment and facilities needed for this novel process of deep-tank fermentation. Pfizer purchases a nearby vacant ice plant, and employees work around the clock to convert it and perfect the complex production process. In just four months, Pfizer is producing five times more penicillin than originally anticipated. Penicillin is a turning point in human history\u2014the first real defense against bacterial infection.\nCollapsePfizer is successful in its efforts to mass-produce penicillin and becomes the world's largest producer of the \"miracle drug.\"\nUsing deep-tank fermentation, Pfizer is successful in its efforts to mass-produce penicillin and becomes the world's largest producer of the \"miracle drug.\"\nMost of the penicillin that goes ashore with Allied forces on D-Day is made by Pfizer. The company's contribution to the war effort is heralded nationwide and earns Pfizer the coveted Army-Navy \"E\" Award on April 17, 1943.\nCollapseGeorge A. Anderson becomes Pfizer's chairman of the board. John L. Smith fills the office of President.\nTerramycin\u00ae (oxytetracycline), a broad-spectrum antibiotic that is the result of the Company's first discovery program, becomes the first pharmaceutical sold in the United States under the Pfizer label. Pfizer begins expansion into overseas markets and the International Division is created.\nTerramycin also marks the beginning of the Pfizer Pharmaceutical Sales Force. Upon its approval by the United States Food and Drug Administration on March 15, 1950, eight specially trained Pfizer pharmaceutical salesmen waiting for word at pay phones across the nation move into action to get inventory to wholesalers and to educate physicians about Pfizer's first proprietary pharmaceutical product. These men are the vanguard of a sales and marketing organization that will come to be recognized as the best in the industry.\nCollapseIn a major international expansion, Pfizer operations are established in Belgium, Brazil, Canada, Cuba, England, Mexico, Panama, and Puerto Rico. John \"Jack\" Powers, Jr., then assistant to Pfizer President John McKeen, directs his international teams to \u201cstudy the economy, establish proper contacts with government officials, learn the language, history, and customs, and hire local employees wherever possible.\"\nWhile other companies keep their international employees on a short leash, Pfizer gives its international people tremendous autonomy, enabling them to make critical decisions immediately, rather than waiting weeks, or even months, for the home office to respond. This formula proves to be remarkably successful in the years ahead.\nCollapsePfizer establishes an Agricultural Division dedicated to offering cutting-edge solutions to animal health problems. The division opens its 700-acre farm and research facility in Terre Haute, Indiana.\nAfter it's acquisition, J.B. Roerig and Company, specialists in nutritional supplements, becomes a division of Pfizer. Roerig remains an integral part of Pfizer's outstanding marketing division.\nA fermentation plant opens in England, laying the foundation for Pfizer's research and development operations in Great Britain. Pfizer partners with Japan's Taito to manufacture and distribute antibiotics. Pfizer acquires full ownership of Taito in 1983.\nNew Pfizer pharmaceutical plants begin production in Mexico, Italy, and Turkey. International personnel increases from 4,300 in 1957 to over 7,000.\nThe Company signals its increasing commitment to research by consolidating its medical research laboratory operations in Groton, Connecticut.\nPfizer begins a decade of substantial growth and establishes new World Headquarters in midtown Manhattan.\nJohn J. Powers, Jr. President and Chief Executive Officer Chas. Pfizer & Co., Inc. 1966.\nJohn J. Powers, Jr.,is named president and CEO. John McKeen, whom he succeeds, remains chairman of the board, a position he holds until 1968, when Powers assumes full leadership of the company.\nVibramycin\u00ae (doxycycline hyclate), the company's first once-a-day broad-spectrum antibiotic is introduced and quickly becomes a top seller.\nPfizer acquires Mack Illertissen, a prosperous manufacturer of pharmaceutical, chemical, and consumer products oriented to the needs of the German marketplace.The Central Research Division is established, combining pharmaceutical, agricultural, and chemical R&D worldwide. It eventually grows to include research centers on three continents. In an era of unprecedented advances in medical discovery, Pfizer makes a long-term investment in research that will pay off years later.\nPfizer crosses the billion-dollar sales threshold. John Powers, Jr., steps down; Edmund T. Pratt, Jr., becomes CEO; and Gerald D. Laubauch becomes President.\nPfizer introduces Minipress\u00ae (prazosin HCI) in the United States, for the control of high blood pressure.\nFeldene\u00ae (piroxicam) becomes one of the largest-selling prescription anti-inflammatory medications in the world and, ultimately, Pfizer's first product to reach a total of a billion United States dollars in sales.\nGlucotrol\u00ae (glipizide), for diabetes, is launched.\nPfizer introduces Unasyn\u00ae (ampicillin sulbactam), an injectable antibiotic.\nThe Agricultural Division is renamed the Animal Health Division.\nPfizer launches Procardia\u00ae XL (nifedipine) extended-release tablets, an innovative once-a-day medication for angina and hypertension.\nWilliam C. Steere, Jr., is appointed President. A year later, he is also named Chief Executive Officer.\nDiflucan\u00ae (fluconazole), a powerful antifungal, is launched in the United States and 15 additional countries. Originally approved for systemic fungal infections, in 1994 it receives a new indication in the U.S. for vaginal candidiasis. The single-dose Diflucan\u00ae tablet is a welcome alternative to the existing treatments that requires topical applications of cream for a week or more.\nCollapseWilliam C. Steere, Jr. becomes Chairman of the Board. His goal is to refocus the Company on its core competencies.\nPfizer has a triple rollout of major new medicines: Zoloft\u00ae (sertraline hydrochloride) for treatment of depression, Norvasc\u00ae (amlodipine besylate) for control of angina and hypertension, and Zithromax\u00ae (azithromycin) for respiratory and skin infections.\nPfizer's Sharing the Care, the industry's premier drug-donation program, is launched. Sharing the Care provides medicines to more than one million eligible low-income and uninsured patients throughout the United States.\nThe Animal Health Division purchases SmithKline Beecham's animal health business, making Pfizer a world leader in the development and production of pharmaceuticals for livestock and companion animals.\nPfizer increases its presence in the Far East by building a pharmaceutical plant in Dalian, China and expanding throughout growing markets in the Pacific Rim. Cardura\u00ae (doxazosin mesylate) is introduced in the United States for the treatment of benign prostate hyperplasia (BPH).\nCollapseFortune\u00ae magazine names Pfizer the world's most admired pharmaceutical company.\nPfizer's roster of outstanding drugs grows with the launch of Viagra\u00ae (sildenafil citrate), a breakthrough treatment for erectile dysfunction.\nPfizer invests more than $3.3 billion in research and development.\nPfizer and the Edna McConnell Clark Foundation partner to establish the International Trachoma Initiative (ITI) to help eliminate blinding trachoma. Learn more about Trachoma and the International Trachoma Initiative.\nCollapsePfizer celebrates its 150th anniversary as one of the world's premier pharmaceutical companies. Recognized for its success in discovering and developing innovative drugs for human discovery, Forbes\u00ae magazine names Pfizer \"Company of the Year.\" Pfizer takes the drug discovery process to a new level of efficiency with the opening of the Discovery Technology Center in Cambridge, Massachusetts.\nUtilizing the emerging knowledge of gene families, the Center's mission is to evolve new, more efficient models for discovering drug candidates. These candidates have an increased potential to survive the rigors of drug development. Pfizer investment in research and development exceeds $4 billion for the first time. Learn more about Pfizer's commitment to research.\nCollapseThe Best Get Better\u2014Pfizer and Warner-Lambert merge to form the new Pfizer, creating the world's fastest-growing major pharmaceutical company. Learn more about the Pfizer/Warner-Lambert merger.\nPfizer and the Ministry of Health of South Africa sign a Memorandum of Understanding to establish the Diflucan\u00ae Partnership Program. Learn more about the Diflucan\u00ae Partnership Program.\nPfizer opens the largest building in the world dedicated to the discovery of new medicines for human and animal health on its Groton, Connecticut research campus.\nCollapseWilliam C. Steere, Jr. announces his retirement as CEO on January 1, 2001, and steps down as Chairman of the Board in April, following the company's annual meeting. Henry A. McKinnell, Jr., Ph.D. succeeds William C. Steere, Jr. as Chairman and Chief Executive Officer.\nIn June 2001, Hank McKinnell announces a new mission for Pfizer\u2014to become the world's most valued company to patients, customers, colleagues, investors, business partners, and the communities where we work and live. In July, he announces a commitment to fund the building of a regional treatment and training center on the campus of Makerere University in Kampala, Uganda as part of the Academic Alliance for AIDS Care and Prevention.\nPfizer launches Geodon\u00ae (ziprasidone hydrochloride), a new antipsychotic for the treatment of schizophrenia.\nCollapseIn a major expansion of its commitment to improving health care for low-income Americans, Pfizer introduces The Pfizer For Living\u2122 Share Card Program. The program provides qualified low-income Medicare beneficiaries with access to up to a 30-day supply of any prescription medicine for a flat rate of $15 per prescription. By April 2004, over half a million seniors enrolled in the program and nearly five million prescriptions were filled.\nPfizer invests an industry leading $5.1 billion in research and development and launches Vfend\u00ae (voriconazole), an orally and intravenously administered antifungal indicated for treatment of serious fungal infections.\nPfizer becomes the first U.S. pharmaceutical company and first top-ten company on the New York Stock Exchange to join the U.N. Global Compact, an international network that promotes good corporate citizenship by fostering partnerships between companies, U.N. agencies, non-governmental organizations (NGOs), trade unions and academic institutions.\nThe Pfizer Foundation announces the launch of a three-year initiative to provide grants to support training and capacity building for HIV/AIDS in developing countries. Twelve organizations receive grants through the International HIV/AIDS Health Literacy Grants Program.\nHank McKinnell, CEO and Chairman of Pfizer, announces the Global Health Fellows program at the World AIDS Conference in Barcelona - a call to action for Pfizer colleagues to volunteer in developing countries for up to six months on HIV/AIDS projects. In 2003, the first eighteen Global Health Fellows are sent into the field.\nCollapsePfizer invests more than $7.1 billion in research and development.\nOn April 16, 2003 Pfizer Inc and Pharmacia Corporation combine operations, bringing together two of the world\u00b4s fastest-growing and most innovative companies. Learn more about the Pfizer/Pharmacia merger\nPfizer Inc is selected by Dow Jones and Co. to be included in the Dow Jones Industrial Average, which is the best-known stock market barometer in the world.\nCaduet\u00ae (amlodipine besylate and atorvastatin calcium), the first single pill that treats both high blood pressure and high cholesterol, is launched.\nPfizer Helpful Answers\u00ae, the pharmaceutical industry's most comprehensive prescription medicines access initiative is launched, enabling America's 45 million uninsured to obtain Pfizer medicines free or at significant savings.\nThe Infectious Diseases Institute, a new medical facility providing state of the art training and treatment of HIV/ADS and other infectious diseases, opens its doors on the grounds of Makerere University in Kampala, Uganda. Pfizer Inc and the Pfizer Foundation, as part of a unique public-private partnership with a number of organizations, contribute more than $15 million to support construction of the building.\nCollapsePfizer launches Lyrica\u00ae (pregabalin), the first treatment approved by the U.S. Food and Drug Administration to treat two distinct forms of neuropathic pain associated with diabetic peripheral neuropathy (DPN), postherpetic neuralgia (PHN) and adjunctive treatment of partial onset seizures in adults with epilepsy.\nPfizer's roster of outstanding drugs grows with the launch of Sutent\u00ae (sunitinib malate), a new, oral, multikinase inhibitor to treat patients with metastatic renal cell carcinoma (mRCC), or advanced kidney cancer, and gastrointestinal stromal tumor (GIST) after disease progression on, or intolerance to, imatinib mesylate.\nPfizer launches Eraxis\u2122 (anidulafungin), a new medicine to treat certain infections caused by Candida, a yeast-like fungus that can cause serious infections in hospitalized patients or patients with compromised immune systems.\nChantix\u2122 (varenicline), a prescription medicine to help adults stop smoking, is launched by Pfizer.\nIn July 2006, the Pfizer Board of Directors names Jeffrey B. Kindler Chief Executive Officer. Kindler succeeds Hank McKinnell, who will remain Chairman of the Board until his retirement in February, 2007.\nCollapsePfizer launches Selzentry\u2122 (maraviroc) tablets, the first in a new class of oral HIV medicines in more than 10 years. Selzentry blocks viral entry into white blood cells, significantly reducing viral load and increasing T-cell counts in treatment-experienced patients infected with a specific type of HIV.\nPfizer launches an online site to provide up-to-date, user-friendly information on the status of its U.S. post-marketing commitments - studies conducted after a medicine receives regulatory approval and designed to provide additional information about the medicine's safety, efficacy or optimal use. This initiative is the first of its kind for a pharmaceutical company.\nTo help address critical gaps in malaria treatment and education, Pfizer announces the launch of Mobilize Against Malaria.\nCollapseJeff Kindler, Chairman and CEO of Pfizer, announces the next step in the company's evolution and outlines the company's plan to establish smaller operating units designed to enhance innovation and accountability, while drawing upon the advantages of Pfizer's scale and resources. These customer-focused business units allow Pfizer to better anticipate and respond to customers' and patients' needs, as well responds to changes in the marketplace.\nPfizer launches a new Medicine Safety Website to help healthcare professionals and patients make better informed decisions about treatment options.\nGrameen Health, an affiliate of Grameen Bank, the pioneering micro-financing organization in Bangladesh that shared the Nobel Peace Prize in 2006 for its work to alleviate poverty, partners with Pfizer to identify sustainable models for healthcare delivery in the developing world.\nPfizer launches its Global Regenerative Medicine Unit. The unit is dedicated to understanding the biology of stem cells and the opportunity these cells provide, to discover and develop a new generation of regenerative medicines that may prevent disability, repair failing organs and treat degenerative diseases.\nPfizer enters into an agreement with Medivation to develop and commercialize an investigational medicine, Dimebon, for treating Alzheimer's disease and Huntington's disease.\nCollapseOn October 15, 2009, Pfizer acquires Wyeth, creating a company with a broad range of products and therapies that touch the lives of patients and consumers every day and at every stage of life.\nPfizer takes a new and unique approach to biomedical research, a move intended bring more innovative medicines to more patients more quickly. Specifically, Pfizer creates two distinct research organizations: The PharmaTherapeutics Research & Development Group, which focuses on discovery of small molecules and related modalities; and The BioTherapeutics Research & Development Group, which focuses on large-molecule research, including vaccines. Learn more about Pfizer's Research and Development organizations.\nPfizer launches Toviaz (fesoterodine fumarate), a prescription medicine used in adults to treat symptoms of a condition called overactive bladder.\nPfizer enters into major licensing agreements with two Indian-based pharmaceutical companies \u2014 Claris Lifesciences Ltd. and Aurobindo Pharma Ltd. \u2014 to enhance medicinal availability to underserved populations around the world and add new non-Pfizer medicines to the company's existing portfolio of established products.\nBecause patient participation in clinical trials is the key to progress in medical research, Pfizer enters into a collaboration with Private Access, an innovator in privacy-enhanced search technology, to create a new online community aimed at increasing clinical trial awareness and participation.\nCollapseIan Read joins Pfizer as Chief Executive Officer. Prior to this, he served as Senior Vice President and Group President of the Worldwide Biopharmaceutical Businesses, which he led from 2006 through December 2010. In that role, he oversaw five global business units\u2014Primary Care, Specialty Care, Oncology, Established Products and Emerging Markets.\nMr. Read began his career with Pfizer in 1978 as an operational auditor. He worked in Latin America through 1995, holding positions including Chief Financial Officer, Pfizer Mexico, and Country Manager, Pfizer Brazil.\nCollapsePfizer announces a diversified R&D platform named Pfizer Worldwide Research and Development, supporting excellence in small molecules, large molecules and vaccine research and development.\nAs part of the acquisition of Wyeth in 2009, Pfizer initially implemented a two-division structure for research and development (BioTherapeutics and PharmaTherapeutics) to ensure the progress and steady integration of both legacy organizations. Due to the speed and effectiveness of that integration, Pfizer progresses to this new model while maintaining the same breadth and research programs. Learn more about Pfizer's Research and Development organization.\nCollapsePfizer Completes Sale of Capsugel Business to KKR.\nPfizer announces that it has completed the sale of its Capsugel business to an affiliate of Kohlberg Kravis Roberts & Co. L.P. (together with its affiliates, \u201cKKR\u201d), following the receipt of required regulatory clearances, including in the U.S. and the European Union.\nPfizer's subsidiary, Zoetis\u2122 Inc, files IPO registration statement\nPfizer's subsidiary, Zoetis\u2122 Inc., files a registration statement with the U.S. Securities and Exchange Commission for a potential initial public offering (IPO) of Class A common stock. The offering is expected to represent an ownership stake of up to 20 percent. Prior to completion of the offering, which is targeted for the first half of 2013, Pfizer will transfer its animal health business to Zoetis.\nPfizer announces plans to move forward to internally separate its commercial operations into three business segments, two of which will include Innovative business lines and a third which will include the Value business line. Each of the three segments will include developed markets and emerging markets.\nThe changes are implemented in January 2014 in countries that do not require a consultation with works councils or unions, and are then implemented in countries that require consultation after the successful conclusion of those processes.\nCollapsePfizer announces that it has entered into a definitive agreement to acquire Baxter International Inc.\u2019s portfolio of marketed vaccines for $635 million. As part of the transaction, Pfizer will also acquire a portion of Baxter\u2019s facility in Orth, Austria, where these vaccines are manufactured.\nPfizer announces that they have entered into a definitive merger agreement under which Pfizer will acquire Hospira. This strategically complementary combination adds a growing revenue stream and a platform for growth for Pfizer\u2019s GEP business.\nThe expanded portfolio of sterile injectable pharmaceuticals, composed of Hospira\u2019s broad generic sterile injectables product line, including acute care and oncology injectables, with a number of differentiated presentations, as well as its biosimilars portfolio, combined with GEP\u2019s branded sterile injectables, including anti-infectives, anti-inflammatories and cytotoxics, will create a leading global sterile injectables business.\nThe combination also reinforces GEP\u2019s growth strategy to build a broad portfolio of biosimilars in Pfizer\u2019s therapeutic areas of strength through the addition of Hospira\u2019s portfolio that includes several marketed biosimilars. Pfizer will also use its existing commercial capabilities, global scale, scientific expertise and world class development capabilities to significantly expand the reach of Hospira\u2019s products, which are currently distributed primarily in the United States, to Europe and key emerging markets, where GEP has a significant presence.\nCollapseWatson Health and Pfizer announce a collaboration that will utilize IBM Watson for Drug Discovery to help accelerate Pfizer's research in immuno-oncology, an approach to cancer treatment that uses the body's immune system to help fight cancer.\nPfizer is one of the first organizations worldwide to deploy Watson for Drug Discovery, and the first to customize the cloud-based cognitive tool \u2013 tapping in to Watson's machine learning, natural language processing, and other cognitive reasoning technologies to support the identification of new drug targets, combination therapies for study, and patient selection strategies in immuno-oncology.\nImmunotherapies, which modify a patient's immune system to recognize and target cancer cells using a combination of vaccines, immunomodulators, and small/large molecules, are reshaping the field of oncology. Oncology researchers at Pfizer will use Watson for Drug Discovery to analyze massive volumes of disparate data sources, including licensed and publicly available data as well as Pfizer's proprietary data. With this new tool, Pfizer researchers will analyze and test hypotheses to generate evidence-based insights for real-time interaction. The customized technology can also support efficient safety assessments.\nCollapsePfizer and Corning Incorporated announce collaborations that have enabled the modernization of pharmaceutical packaging with the introduction of Corning Valor\u2122 Glass. This revolutionary pharmaceutical glass packaging solution enhances the storage and delivery of today\u2019s drug formulations and provides more reliable access to medicines essential to public health.\nDeep pharmaceutical formulation and manufacturing process insights from Merck and Pfizer, in combination with Corning\u2019s glass science and precision forming capabilities helped deliver an exceptional glass packaging solution for injectable drugs in vials and cartridges. The companies\u2019 continued collaborations will focus on additional evaluations and the deployment of this new innovation. Corning Valor Glass packaging offers superior chemical durability, strength and damage resistance. These qualities enable increased throughput and more reliable access to state-of-the-art medicines for patients, while maintaining a high level of quality assurance for pharmaceutical companies.\nCollapsePfizer leads the world in developing a vaccine and treatment in response to the COVID-19 pandemic and commits to lightspeed manufacturing to expand vaccine and treatment access to people around the world.\nPfizer acquires several companies:\nAnnual Review\nPfizer is committed to providing shareholders, potential investors, and the public with a transparent view of our efforts toward fulfilling our purpose: Breakthroughs that change patients\u2019 lives. To that end, our annual reports detail the strategic development, operations, and financial condition of our business.\nOur Purpose\nScience Will Win\nBreakthroughs That Change Patients' Lives\nPatients at Our Center\nThe Power of Science\nAccelerating Patient Impact\nA Transformational Year\nDiscoveries for Healthier Lives\nKeeping Our Commitments, Continuing Our Momentum\nWorking Together to Speed the Science\nAt Our Core: Determination. Innovation. Humanity.\nOur Impact\nScience\nDoing Things Differently\nProgress & Promise\nStrong Medicine: Our Prescription for Change\nThe Next-Generation\nWork With Us\nLeadership. Honor. A sense of purpose. The qualities you demonstrated as a member of the armed forces are most welcome at Pfizer.\nWe\u2019re turning advanced science and technologies into therapies that matter most. Join us, and your efforts could impact millions of people.\nTo create a workplace for all, we\u2019re committed to increasing diversity and fostering inclusivity in this first-of-its-kind, nine-year program.\nTo Our Investors\nOur ambitions are big and our product pipeline has never been stronger. We\u2019re energized and inspired to apply science and our global resources to develop and deliver breakthrough therapies to people everywhere.\nTo Our InvestorsPurpose & Ideals\nFor millions of patients around the world, the development of a new treatment or vaccine can be life-changing.\nPrograms & Initiatives\nPfizer is proud of its commitment to advancing hemophilia care for more than 40 years, dating back to the introduction of recombinant therapies.\nScience & Innovation\nAbout Pfizer's initiative to make clinical trials more participant-friendly through the decentralized \"Clinical Trial Anywhere\" model; a suite of solutions like remote sample collection, alternative study conduct locations, home health, and mobile units to reduce the need for in-person visits.",
+    "nlp": {
+      "keywords": [
+        [
+          "the",
+          271
+        ],
+        [
+          "and",
+          227
+        ],
+        [
+          "pfizer",
+          148
+        ],
+        [
+          "for",
+          64
+        ],
+        [
+          "that",
+          44
+        ],
+        [
+          "with",
+          40
+        ],
+        [
+          "our",
+          38
+        ],
+        [
+          "research",
+          37
+        ],
+        [
+          "new",
+          33
+        ],
+        [
+          "company",
+          32
+        ],
+        [
+          "its",
+          30
+        ],
+        [
+          "patients",
+          24
+        ],
+        [
+          "development",
+          24
+        ],
+        [
+          "world",
+          23
+        ],
+        [
+          "pharmaceutical",
+          23
+        ]
+      ],
+      "sentiment_polarity": 0.17844820153684401,
+      "sentiment_subjectivity": 0.40737784914377717,
+      "readability": {
+        "flesch_reading_ease": 23.276876118868586,
+        "smog_index": 16.337612625934597,
+        "gunning_fog": 17.965453315829258
+      }
+    }
+  },
+  {
+    "name": "Meta",
+    "sector": "Technology",
+    "base_url": "https://www.meta.com/?srsltid=AfmBOooDJLrARH0WNV01TsXXmT7WGmaurl2WZCPwnEbSLtqD3WGGwEir",
+    "about_url": "https://www.meta.com/about",
+    "text": "Shop the latest devices and expand your world\nConnect in new ways with our products\nStay informed about our actions\nWe're committed to helping keep people safe and making a positive impact.\nMeet our leadership\nMeta's leaders are guiding our company as mixed reality and AI evolve, helping to create the next evolution of digital connection.",
+    "nlp": {
+      "keywords": [
+        [
+          "our",
+          4
+        ],
+        [
+          "and",
+          3
+        ],
+        [
+          "the",
+          2
+        ],
+        [
+          "helping",
+          2
+        ],
+        [
+          "shop",
+          1
+        ],
+        [
+          "latest",
+          1
+        ],
+        [
+          "devices",
+          1
+        ],
+        [
+          "expand",
+          1
+        ],
+        [
+          "your",
+          1
+        ],
+        [
+          "world",
+          1
+        ],
+        [
+          "connect",
+          1
+        ],
+        [
+          "new",
+          1
+        ],
+        [
+          "ways",
+          1
+        ],
+        [
+          "with",
+          1
+        ],
+        [
+          "products",
+          1
+        ]
+      ],
+      "sentiment_polarity": 0.1948051948051948,
+      "sentiment_subjectivity": 0.37857142857142856,
+      "readability": {
+        "flesch_reading_ease": 33.38642857142861,
+        "smog_index": 15.247664890283005,
+        "gunning_fog": 16.914285714285715
+      }
+    }
+  },
+  {
+    "name": "JPMorgan Chase",
+    "sector": "Finance",
+    "base_url": "https://www.jpmorganchase.com/",
+    "about_url": "https://www.jpmorganchase.com/about",
+    "text": "225 years of lasting progress\nExplore our business principles, leadership and history that make us who we are today.\nBusiness principles\nThese four principles are fundamental to our success and guide our efforts within the firm and around the world.\nOur leadership\nLearn more about the people upholding our values and moving our organization forward.\nOur history\nDiscover the history of our firm and how we\u2019re building on our past to shape the future.\nArt collection\nConnecting clients and communities with some of the most inspiring pieces of art from around the world.\nSuppliers\nBuilding strong relationships with diverse suppliers to serve our clients, shareholders, communities and employees more efficiently.\nGovernance\nOur Board of Directors and leaders are building on our legacy of integrity with a strong vision for the future.",
+    "nlp": {
+      "keywords": [
+        [
+          "our",
+          12
+        ],
+        [
+          "and",
+          8
+        ],
+        [
+          "the",
+          8
+        ],
+        [
+          "principles",
+          3
+        ],
+        [
+          "history",
+          3
+        ],
+        [
+          "are",
+          3
+        ],
+        [
+          "building",
+          3
+        ],
+        [
+          "with",
+          3
+        ],
+        [
+          "business",
+          2
+        ],
+        [
+          "leadership",
+          2
+        ],
+        [
+          "firm",
+          2
+        ],
+        [
+          "around",
+          2
+        ],
+        [
+          "world",
+          2
+        ],
+        [
+          "more",
+          2
+        ],
+        [
+          "future",
+          2
+        ]
+      ],
+      "sentiment_polarity": 0.1935897435897436,
+      "sentiment_subjectivity": 0.40512820512820513,
+      "readability": {
+        "flesch_reading_ease": 38.01404580152672,
+        "smog_index": 14.348710955821954,
+        "gunning_fog": 14.508615049073065
+      }
+    }
+  },
+  {
+    "name": "Agricultural Bank of China",
+    "sector": "Finance",
+    "base_url": "https://www.abchina.com/en/",
+    "about_url": "https://www.abchina.com/en/about",
+    "text": "\u9519\u8bef\u4fe1\u606f ----------------------------------------------------------------------------------------------------------\n\u5c0a\u656c\u7684\u5ba2\u6237\uff1a\n\u60a8\u8bf7\u6c42\u7684\u8d44\u6e90\u65e0\u6cd5\u627e\u5230\u3002\n\u4e2d\u56fd\u519c\u4e1a\u94f6\u884c",
+    "nlp": {
+      "keywords": [
+        [
+          "\u9519\u8bef\u4fe1\u606f",
+          1
+        ],
+        [
+          "\u5c0a\u656c\u7684\u5ba2\u6237",
+          1
+        ],
+        [
+          "\u60a8\u8bf7\u6c42\u7684\u8d44\u6e90\u65e0\u6cd5\u627e\u5230",
+          1
+        ],
+        [
+          "\u4e2d\u56fd\u519c\u4e1a\u94f6\u884c",
+          1
+        ]
+      ],
+      "sentiment_polarity": 0.0,
+      "sentiment_subjectivity": 0.0,
+      "readability": {
+        "flesch_reading_ease": 118.17500000000001,
+        "smog_index": 3.1291,
+        "gunning_fog": 1.6
+      }
+    }
+  },
+  {
+    "name": "Bank of America",
+    "sector": "Finance",
+    "base_url": "https://www.bankofamerica.com/",
+    "about_url": "https://www.bankofamerica.com/about",
+    "text": "We're committed to strengthening our communities. See how we're making an impact.\nWe learn what matters most by asking you one simple question: What would you like the power to do?\nProud supporter of every goal\nTeaming up to support achievements in the game of soccer, and across our community.\nNo matter what your financial goals are, we\u2019re here to help\nWe\u2019re helping support communities impacted by the wildfires\nAll levels welcome. All approaches encouraged. External link, opens in a new tab\n2024 Bank of America Annual Report\nHelping clients achieve their financial goals\nFor three years in a row, J.D. Power has certified Bank of America for Outstanding Customer Satisfaction with Financial Health Support \u2013 Banking & Payments. ***\nPursuing and enabling the dreams of entrepreneurs\nEntrepreneurs enhance the character of cities and towns across our country. Take the founder behind Isla Veterinary Boutique Hospital. Dr. Josh Sanabria started his own veterinary hospital in Dallas, Texas \u2013 and we've supported his endeavors from day one.\nOwner Josh is just one of the three million small business owners that we work with every year, helping them realize their potential.\nHero image: Natalie J., Financial Center Market Manager\n*** J.D. Power 2024 Financial Health Support CertificationSM is based on exceeding customer experience benchmarks using client surveys and a best practices verification. For more information, visit www.jdpower.com/awards",
+    "nlp": {
+      "keywords": [
+        [
+          "the",
+          7
+        ],
+        [
+          "and",
+          5
+        ],
+        [
+          "financial",
+          5
+        ],
+        [
+          "support",
+          4
+        ],
+        [
+          "our",
+          3
+        ],
+        [
+          "what",
+          3
+        ],
+        [
+          "one",
+          3
+        ],
+        [
+          "power",
+          3
+        ],
+        [
+          "helping",
+          3
+        ],
+        [
+          "for",
+          3
+        ],
+        [
+          "communities",
+          2
+        ],
+        [
+          "you",
+          2
+        ],
+        [
+          "every",
+          2
+        ],
+        [
+          "across",
+          2
+        ],
+        [
+          "goals",
+          2
+        ]
+      ],
+      "sentiment_polarity": 0.18431818181818183,
+      "sentiment_subjectivity": 0.42933441558441554,
+      "readability": {
+        "flesch_reading_ease": 40.598749999999995,
+        "smog_index": 13.227904075235838,
+        "gunning_fog": 12.954545454545457
+      }
+    }
+  },
+  {
+    "name": "Chevron",
+    "sector": "Energy",
+    "base_url": "https://www.chevron.com/",
+    "about_url": "https://www.chevron.com/about",
+    "text": "who we are\nEnergy drives human progress and creates positive change for modern society. We work hard to deliver energy that can improve the lives of millions of people around the world.\nwhat we believe drives how we work\nOur north star is The Chevron Way. A set of values that inspires our culture. And guides us to get results the right way.\ndiscover the chevron way\nindustry innovation through technology\nhuman ingenuity from the beginning\nWe have been a leader in energy for over 140 years. Our history is filled with moments that shaped human progress and transformed the world.\nlearn about our history\nfocus on quality\nWe\u2019re driven to create a quality experience. From our leadership team, who are guided by their vision and values. To each of our brands and the employees who bring them to life.\nour brands\nWe strive for excellence and maintaining high standards. With a rich history dating back over a century, Chevron\u2019s family of brands has built trust and recognition worldwide.\ndiscover our brands\nleadership\nOur culture is built upon the principles of responsibility, trust and integrity. Our leadership is a profound source of pride as we aim to lead in the future of energy.\nlearn about our leaders\ncareers\nChevron is a place where people come to be part of innovative solutions that help address the world\u2019s energy challenges.\njoin our journey",
+    "nlp": {
+      "keywords": [
+        [
+          "our",
+          12
+        ],
+        [
+          "the",
+          11
+        ],
+        [
+          "and",
+          8
+        ],
+        [
+          "energy",
+          5
+        ],
+        [
+          "that",
+          4
+        ],
+        [
+          "chevron",
+          4
+        ],
+        [
+          "brands",
+          4
+        ],
+        [
+          "who",
+          3
+        ],
+        [
+          "human",
+          3
+        ],
+        [
+          "for",
+          3
+        ],
+        [
+          "world",
+          3
+        ],
+        [
+          "way",
+          3
+        ],
+        [
+          "history",
+          3
+        ],
+        [
+          "leadership",
+          3
+        ],
+        [
+          "are",
+          2
+        ]
+      ],
+      "sentiment_polarity": 0.13854669140383427,
+      "sentiment_subjectivity": 0.46698824984539267,
+      "readability": {
+        "flesch_reading_ease": 56.30821022727275,
+        "smog_index": 11.698219412168324,
+        "gunning_fog": 10.796645021645023
+      }
+    }
+  },
+  {
+    "name": "UnitedHealth Group",
+    "sector": "Healthcare",
+    "base_url": "https://www.unitedhealthgroup.com/",
+    "about_url": "https://www.unitedhealthgroup.com/about",
+    "text": "Page Not Found\nThe page you are looking for could not be found. The page might have been removed, had its name changed, or is temporarily unavailable.\nPlease select from the menu above to find the page you were looking for. You may also visit the Site Map.\nLooking for financial or annual reports? Click here.\nLooking for contact information? Click here.",
+    "nlp": {
+      "keywords": [
+        [
+          "the",
+          5
+        ],
+        [
+          "page",
+          4
+        ],
+        [
+          "looking",
+          4
+        ],
+        [
+          "for",
+          4
+        ],
+        [
+          "you",
+          3
+        ],
+        [
+          "not",
+          2
+        ],
+        [
+          "found",
+          2
+        ],
+        [
+          "click",
+          2
+        ],
+        [
+          "here",
+          2
+        ],
+        [
+          "are",
+          1
+        ],
+        [
+          "could",
+          1
+        ],
+        [
+          "might",
+          1
+        ],
+        [
+          "have",
+          1
+        ],
+        [
+          "been",
+          1
+        ],
+        [
+          "removed",
+          1
+        ]
+      ],
+      "sentiment_polarity": 0.0,
+      "sentiment_subjectivity": 0.05,
+      "readability": {
+        "flesch_reading_ease": 74.9047311827957,
+        "smog_index": 8.344100000000001,
+        "gunning_fog": 7.359139784946237
+      }
+    }
+  },
+  {
+    "name": "Wells Fargo",
+    "sector": "Finance",
+    "base_url": "https://www.wellsfargo.com/",
+    "about_url": "https://www.wellsfargo.com/about",
+    "text": "About Wells Fargo\nPutting people and communities first\nLeadership and governance\nEarning trust by doing the right thing in the right way for customers, communities, and employees\nInclusion and accessibility\nChampioning inclusion and accessibility in every aspect of our business\nImagine a rewarding career with great work-life balance\nWherever you may be on your journey, discover your sweet spot at Wells Fargo.\nResponsibility and impact\nFocusing on making a positive impact by supporting a sustainable and inclusive future\nNews releases\nKeeping you informed with the latest, breaking news from within and around Wells Fargo\nOur stories\nShowcasing our experiences and insights through expert tips and news you can use\nHistory in the making\nWe\u2019ve helped people go further with their money since our founding by Henry Wells and William Fargo in 1852. With innovative solutions that evolve with the times, we continue to help our customers get ahead.\nTeamworks for employees\nAccess employee benefits and services privately \u2014 anytime, anywhere.\nHow was your experience? Give us feedback.\nQSR-06232026-7472519.1.1\nLRC-0924",
+    "nlp": {
+      "keywords": [
+        [
+          "and",
+          12
+        ],
+        [
+          "the",
+          5
+        ],
+        [
+          "our",
+          5
+        ],
+        [
+          "with",
+          5
+        ],
+        [
+          "wells",
+          4
+        ],
+        [
+          "fargo",
+          4
+        ],
+        [
+          "you",
+          3
+        ],
+        [
+          "your",
+          3
+        ],
+        [
+          "news",
+          3
+        ],
+        [
+          "people",
+          2
+        ],
+        [
+          "communities",
+          2
+        ],
+        [
+          "right",
+          2
+        ],
+        [
+          "for",
+          2
+        ],
+        [
+          "customers",
+          2
+        ],
+        [
+          "employees",
+          2
+        ]
+      ],
+      "sentiment_polarity": 0.30374625374625375,
+      "sentiment_subjectivity": 0.576939726939727,
+      "readability": {
+        "flesch_reading_ease": 23.315000000000026,
+        "smog_index": 17.5058628484301,
+        "gunning_fog": 19.295238095238098
+      }
+    }
+  },
+  {
+    "name": "Verizon",
+    "sector": "Telecom",
+    "base_url": "https://www.verizon.com/",
+    "about_url": "https://www.verizon.com/about",
+    "text": "Latest news\nAccelerating Customer First Innovation with Unmatched Value\nVerizon enhances consumer offerings with industry-leading 3-year price lock and free phone guarantee, strengthening customer relationships across mobile and home with myPlan and myHome.\nThe modern\nconnected home:\nnearly 20 devices per Verizon householdVerizon\u2019s annual report highlights rising home connectivity trends, from data usage growth to how families manage their digital lives.\nOur Company\nPowering how you live, work and play.\nWe're all about connecting everything and everyone in totally new and exciting ways.\nOur Responsibility\nCitizen Verizon. When the world thrives, we all win.\nOur plan to expand digital access, protect the climate, and prepare people for the jobs of the future.\nOur Shareowners\nDelivering strong results.\nNot a lot of companies can transform their business in a time of accelerating change. But we have, and will continue to do so.\nOur Employees\nFueled by purpose.\nFrom finance and tech retail and beyond. See what it's like as a V Teamer, working with good people, doing good things.\nFollow us.\nThe latest news and stories from Verizon.",
+    "nlp": {
+      "keywords": [
+        [
+          "and",
+          11
+        ],
+        [
+          "the",
+          6
+        ],
+        [
+          "our",
+          5
+        ],
+        [
+          "with",
+          4
+        ],
+        [
+          "verizon",
+          4
+        ],
+        [
+          "home",
+          3
+        ],
+        [
+          "from",
+          3
+        ],
+        [
+          "latest",
+          2
+        ],
+        [
+          "news",
+          2
+        ],
+        [
+          "accelerating",
+          2
+        ],
+        [
+          "customer",
+          2
+        ],
+        [
+          "how",
+          2
+        ],
+        [
+          "their",
+          2
+        ],
+        [
+          "digital",
+          2
+        ],
+        [
+          "all",
+          2
+        ]
+      ],
+      "sentiment_polarity": 0.3222537878787879,
+      "sentiment_subjectivity": 0.49038825757575755,
+      "readability": {
+        "flesch_reading_ease": 45.35504237288137,
+        "smog_index": 12.540900571622839,
+        "gunning_fog": 12.062792574656982
+      }
+    }
+  },
+  {
+    "name": "Citigroup",
+    "sector": "Finance",
+    "base_url": "https://www.citigroup.com/citi/",
+    "about_url": "https://www.citigroup.com/citi/about",
+    "text": "Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. We have set expectations for how we must act to bring our mission to life. These expectations are at the heart of our Leadership Principles \u2013 we take ownership, we deliver with pride and we succeed together.",
+    "nlp": {
+      "keywords": [
+        [
+          "our",
+          3
+        ],
+        [
+          "mission",
+          2
+        ],
+        [
+          "and",
+          2
+        ],
+        [
+          "expectations",
+          2
+        ],
+        [
+          "citi",
+          1
+        ],
+        [
+          "serve",
+          1
+        ],
+        [
+          "trusted",
+          1
+        ],
+        [
+          "partner",
+          1
+        ],
+        [
+          "clients",
+          1
+        ],
+        [
+          "responsibly",
+          1
+        ],
+        [
+          "providing",
+          1
+        ],
+        [
+          "financial",
+          1
+        ],
+        [
+          "services",
+          1
+        ],
+        [
+          "that",
+          1
+        ],
+        [
+          "enable",
+          1
+        ]
+      ],
+      "sentiment_polarity": 0.13333333333333333,
+      "sentiment_subjectivity": 0.25,
+      "readability": {
+        "flesch_reading_ease": 44.91740112994353,
+        "smog_index": 15.021129683784007,
+        "gunning_fog": 16.00225988700565
+      }
+    }
+  },
+  {
+    "name": "BP",
+    "sector": "Energy",
+    "base_url": "https://www.bp.com/",
+    "about_url": "https://www.bp.com/about",
+    "text": "We deliver heat, light and mobility products and services to people all around the world\nWe are an integrated energy company, one of only a few that can deliver energy at global scale through a decades-long energy transition.\nWe are an integrated energy company, one of only a few that can deliver energy at global scale through a decades-long energy transition\nWe believe we have the scale, global presence and expertise to navigate complex markets and manage increasingly integrated energy systems",
+    "nlp": {
+      "keywords": [
+        [
+          "energy",
+          7
+        ],
+        [
+          "and",
+          4
+        ],
+        [
+          "deliver",
+          3
+        ],
+        [
+          "integrated",
+          3
+        ],
+        [
+          "global",
+          3
+        ],
+        [
+          "scale",
+          3
+        ],
+        [
+          "the",
+          2
+        ],
+        [
+          "are",
+          2
+        ],
+        [
+          "company",
+          2
+        ],
+        [
+          "one",
+          2
+        ],
+        [
+          "only",
+          2
+        ],
+        [
+          "few",
+          2
+        ],
+        [
+          "that",
+          2
+        ],
+        [
+          "can",
+          2
+        ],
+        [
+          "through",
+          2
+        ]
+      ],
+      "sentiment_polarity": -0.03333333333333333,
+      "sentiment_subjectivity": 0.36666666666666664,
+      "readability": {
+        "flesch_reading_ease": 13.23861111111114,
+        "smog_index": 22.076135915942103,
+        "gunning_fog": 26.076543209876544
+      }
+    }
+  },
+  {
+    "name": "Volkswagen",
+    "sector": "Automotive",
+    "base_url": "https://www.vw.com/en.html",
+    "about_url": "https://www.vw.com/en.html/about",
+    "text": "- 1.\n- Only drive and park where it is permitted and always stay on provided roads and paths. See owner\u2019s manual for important information regarding off pavement use.\nThe 2025 Tiguan is here\nLuxury. Comfort. Power. For everyone.\nThe 2025 Tiguan redefines luxury\u2014and brings it home\nFeeling comfortable, feeling confident, feeling stylish\u2014and feeling like yourself. Thoughtful interior touches, more turbocharged horsepower, a redesigned exterior. Never pretentious, always surprising. That\u2019s the 2025 Tiguan, made for the people.\nThe 2025 Tiguan redefines luxury\u2014and brings it home\nFeeling comfortable, feeling confident, feeling stylish\u2014and feeling like yourself. Thoughtful interior touches, more turbocharged horsepower, a redesigned exterior. Never pretentious, always surprising. That\u2019s the 2025 Tiguan, made for the people.\n1\n- 1.\n- Only drive and park where it is permitted and always stay on provided roads and paths. See owner\u2019s manual for important information regarding off pavement use.",
+    "nlp": {
+      "keywords": [
+        [
+          "and",
+          10
+        ],
+        [
+          "feeling",
+          8
+        ],
+        [
+          "the",
+          7
+        ],
+        [
+          "for",
+          5
+        ],
+        [
+          "2025",
+          5
+        ],
+        [
+          "tiguan",
+          5
+        ],
+        [
+          "always",
+          4
+        ],
+        [
+          "luxury",
+          3
+        ],
+        [
+          "only",
+          2
+        ],
+        [
+          "drive",
+          2
+        ],
+        [
+          "park",
+          2
+        ],
+        [
+          "where",
+          2
+        ],
+        [
+          "permitted",
+          2
+        ],
+        [
+          "stay",
+          2
+        ],
+        [
+          "provided",
+          2
+        ]
+      ],
+      "sentiment_polarity": 0.38125000000000003,
+      "sentiment_subjectivity": 0.7291666666666665,
+      "readability": {
+        "flesch_reading_ease": 44.026153846153875,
+        "smog_index": 12.635684438814376,
+        "gunning_fog": 13.700163666121114
+      }
+    }
+  },
+  {
+    "name": "Morgan Stanley",
+    "sector": "Finance",
+    "base_url": "https://www.morganstanley.com/",
+    "about_url": "https://www.morganstanley.com/about-us",
+    "text": "Institute for Sustainable Investing\nWe believe that private sector capital can play a key role in driving large-scale solutions to the most critical environmental and social challenges facing the world today. We work to maximize capital to build a more sustainable future.",
+    "nlp": {
+      "keywords": [
+        [
+          "sustainable",
+          2
+        ],
+        [
+          "capital",
+          2
+        ],
+        [
+          "the",
+          2
+        ],
+        [
+          "institute",
+          1
+        ],
+        [
+          "for",
+          1
+        ],
+        [
+          "investing",
+          1
+        ],
+        [
+          "believe",
+          1
+        ],
+        [
+          "that",
+          1
+        ],
+        [
+          "private",
+          1
+        ],
+        [
+          "sector",
+          1
+        ],
+        [
+          "can",
+          1
+        ],
+        [
+          "play",
+          1
+        ],
+        [
+          "key",
+          1
+        ],
+        [
+          "role",
+          1
+        ],
+        [
+          "driving",
+          1
+        ]
+      ],
+      "sentiment_polarity": 0.1476190476190476,
+      "sentiment_subjectivity": 0.48095238095238096,
+      "readability": {
+        "flesch_reading_ease": 32.43428571428572,
+        "smog_index": 16.52667757954773,
+        "gunning_fog": 16.97142857142857
+      }
+    }
+  },
+  {
+    "name": "Johnson & Johnson",
+    "sector": "Healthcare",
+    "base_url": "https://www.jnj.com/",
+    "about_url": "https://www.jnj.com/our-company",
+    "text": "J&J H&C Launch 30_v02 with mnemonic.mp4\n- Home\n- Our company\nOur company\nEvery day, our more than 138,000 employees globally are building a world where complex diseases are prevented and cured, treatments are smarter and less invasive\u2014and solutions are personal.\nAt Johnson & Johnson, we believe good health is the foundation of vibrant lives, thriving communities and forward progress. That\u2019s why for almost 140 years, we have aimed to keep people well at every age and every stage of life. Today we are committed to using our reach and size for good. We strive to improve access and affordability, create healthier communities, and put a healthy mind, body and environment within reach of everyone, everywhere.\nOur leaders and leadership approach\nCorporate Governance\nThe print and digital publications we produce each year that recap the company\u2019s business performance and key enterprise-wide milestones.\nOur commitment to our people\nCode of Business Conduct\nWe believe acting ethically and responsibly is not only the right thing to do, but also the right thing to do for our business.\nCompany products\nLearn more about our Innovative Medicine and MedTech businesses.\nCorporate reports\nFind information about some the publications we produce each year.\nESG Policies & Positions\nThe policies and positions on ESG issues that are important to Johnson & Johnson and our stakeholders.\nInfo for investors\nGet the latest financial information, earnings reports and five-year financial review.",
+    "nlp": {
+      "keywords": [
+        [
+          "and",
+          17
+        ],
+        [
+          "our",
+          10
+        ],
+        [
+          "the",
+          8
+        ],
+        [
+          "are",
+          6
+        ],
+        [
+          "company",
+          4
+        ],
+        [
+          "johnson",
+          4
+        ],
+        [
+          "for",
+          4
+        ],
+        [
+          "every",
+          3
+        ],
+        [
+          "that",
+          3
+        ],
+        [
+          "year",
+          3
+        ],
+        [
+          "business",
+          3
+        ],
+        [
+          "more",
+          2
+        ],
+        [
+          "believe",
+          2
+        ],
+        [
+          "good",
+          2
+        ],
+        [
+          "communities",
+          2
+        ]
+      ],
+      "sentiment_polarity": 0.1988095238095238,
+      "sentiment_subjectivity": 0.43214285714285716,
+      "readability": {
+        "flesch_reading_ease": 39.12894736842108,
+        "smog_index": 14.790194502661404,
+        "gunning_fog": 14.617543859649125
+      }
+    }
+  },
+  {
+    "name": "Deutsche Telekom",
+    "sector": "Telecom",
+    "base_url": "https://www.telekom.com/en",
+    "about_url": "https://www.telekom.com/en/about",
+    "text": "\"Open your eyes!\"\nHate on the Internet will not disappear if we close our eyes. That's why \u2018Eyes open\u2019 is the message of Deutsche Telekom's new campaign.\n\"Open your eyes!\"\nHate on the Internet will not disappear if we close our eyes. That's why \u2018Eyes open\u2019 is the message of Deutsche Telekom's new campaign.\n30 years anniversary\n2025 Deutsche Telekom celebrates its 30th company anniversary. Take a look at stories and milestones since the founding of the stock corporation in 1995.\nInnovation\nWith our products and our network, you can be sure to always #takepart in all the latest developments and technologies.\nFrom network expansion to current events: Find information on the Group's focus topics.\n30 years anniversary\n2025 Deutsche Telekom celebrates its 30th company anniversary. Take a look at stories and milestones since the founding of the stock...\nFast food knowledge and virtual love\nA study by the Allensbach Institute and Deutsche Telekom examines the effects of digital assistants and social bots.\nNetworks\nDT invests several billion euros every year in building networks.\nInnovation\nWith our products and our network, you can be sure to always #takepart in all the latest developments and technologies.\nPublic and Regulatory Affairs\nDeutsche Telekom actively participates in digital policy debates: responsible, fair and fact based.\nCustomer Service\nOur approximately 90 million personal customer contacts in Telekom Service each year are all about clear expectations.\nSmart business\nThe global economic crisis is accelerating existing trends. Yesterday's decisions are today's commandments.\nTechnology , data and platforms\nInformation about blockchain and quantum computing, digital identities, Cloud platforms and data spaces.\nNo Hate Speech\nWords must not become a weapon. Deutsche Telekom is fighting for a network without hate in which we treat one another respectfully.\nTopic specials\nFrom network expansion to current events: Find information on the Group's focus topics.",
+    "nlp": {
+      "keywords": [
+        [
+          "the",
+          15
+        ],
+        [
+          "and",
+          14
+        ],
+        [
+          "telekom",
+          8
+        ],
+        [
+          "our",
+          7
+        ],
+        [
+          "deutsche",
+          7
+        ],
+        [
+          "eyes",
+          6
+        ],
+        [
+          "network",
+          5
+        ],
+        [
+          "open",
+          4
+        ],
+        [
+          "hate",
+          4
+        ],
+        [
+          "anniversary",
+          4
+        ],
+        [
+          "not",
+          3
+        ],
+        [
+          "all",
+          3
+        ],
+        [
+          "information",
+          3
+        ],
+        [
+          "digital",
+          3
+        ],
+        [
+          "your",
+          2
+        ]
+      ],
+      "sentiment_polarity": 0.07020626432391139,
+      "sentiment_subjectivity": 0.5028350734233086,
+      "readability": {
+        "flesch_reading_ease": 44.087240637107215,
+        "smog_index": 12.50853898387179,
+        "gunning_fog": 12.662304491318698
+      }
+    }
+  },
+  {
+    "name": "Reliance Industries",
+    "sector": "Conglomerate",
+    "base_url": "https://www.ril.com/",
+    "about_url": "https://www.ril.com/about",
+    "text": "Growth is Life\nGrowth is Life\nReliance Industries Limited is a Fortune 500\u00ae company and the largest private sector corporation in India\nReliance is India\u2019s largest and most profitable private sector company. Our motto \u201cGrowth is Life\u201d aptly captures the ever-evolving spirit of Reliance. In just over four decades, we have emerged as one of India\u2019s most valuable, stakeholder-centric organisations, building valuable assets for India and innovating for a better future for all Indians.\nWhat is Good for India is Good for Reliance\nOur belief \"What is Good for India is Good for Reliance\" has shaped our ambitions and actions every day since inception. We have evolved from being a textile and polyester company to an integrated player across energy, materials, retail, entertainment, and digital services, putting India on the global energy map and triggering a nationwide retail and digital revolution.\nWe are committed to self-reliant, sustainable growth and are embracing the New Energy and digital-first future by making it India\u2019s own.\nVALUE-CREATION APPROACH\nForward with India\nForward with Everyone\nInvestors & Shareholders\nReliance is a pioneer to have started the equity revolution in India. Over the years, we have given superior and consistent returns to our shareholders and investors.\n\u20b920,14,011 crore\n($241.5 billion)\nMarket capitalisation for FY2023-24\n1st Indian\nlisted company\nto cross \u20b920 lakh cr milestone\nGovernment & Regulatory Authorities\nReliance is one of the largest taxpayers (direct and indirect) in India. We have a strong track record of mandatory and voluntary compliance, and we endorse national schemes set for India\u2019s growth.\n\u20b91,86,440 crore ($22.4 billion)\nContribution to National Exchequer for FY2023-24\nSupporting Communities\nThrough Reliance Foundation, we run one of the largest corporate philanthropies in India, with far-reaching impact.\n~76 million\nPeople reached cumulatively through CSR initiatives*\n55,500+\nVillages and urban locations served through CSR initiatives\n(*Since inception figures)\nEmployees\nConsistently ranked among India's top employers of choice, Reliance attracts skilled talent from various backgrounds and provides them with a fair, inclusive, diverse, and meritocratic ecosystem for growth.\n347,362\nWorkforce strength\nReliance among 'TIME100 Most Influential Companies' 2024\nReliance recognized among 'India's Best Employers among Nation-Builders' by Great Place to Work, India for 2024.\nCustomers\nReliance is a consumer-oriented company, offering consumer-centric solutions across its business verticals. We provide superior and delightful experiences for our customers across all our businesses.\n482.1 million\nJio subscribers as of Q3 FY2025\n338 million\nReliance Retail registered customer base as of Q3 FY2025\nSuppliers and Partners\nOur partnerships continue to power our way forward in the sectors that we operate in on shared growth platforms. We also maintain an agile, yet predictable supply chain, and work closely with our vendors, including MSMEs, and domestic manufacturers.\n1,976\nMSME vendors provided materials and services worth \u20b95,529 cr\n185\nMarginalised local suppliers provided materials and services worth \u20b935 cr\n\u20b95,450 crore\nworth materials and services sourced to support local economy\nOur Values & Behaviours\nWe aim to conduct our businesses ethically and in a manner that is respectful to all.\nWe achieve this by aligning our goals with our six core values.\nCUSTOMER VALUE\nWe believe that our customers are the reason for our existence and the only guarantee to our future. Everything that we do must delight our customers, each time, and always.\nOWNERSHIP MINDSET\nWe believe that the success and the reputation of the company is paramount. Having an ownership mindset is fundamental to our existence. It creates a sense of inspiration and purpose. It enables accountability and accomplishment. It ensures our strong commitment to the highest standards of safety and environment.\nRESPECT\nWe believe that without respecting all our stakeholders, there can be no Reliance. We acknowledge that there may be a difference of perspectives, but there must always be respect.\nINTEGRITY\nUpholding our reputation is paramount as we are judged by how we act. We are committed to being truthful in all our actions. We strive to be honest and forthright with one another and with all our stakeholders. We respect the world in which we operate. It begins with compliance with laws and regulations. We hold ourselves to the highest ethical standards and behave in ways that earn the trust of others.\nONE TEAM\nWhatever the strength of the individual, we will accomplish more together. We put the team ahead of our personal success and commit to building its capabilities. We trust each other to deliver on our respective obligations.\nEXCELLENCE\nWe are committed to excellence, in spirit and in action. We believe everything that we do and everything we think can always get better. We see all of our activities in terms of our higher purpose and ideas, which drives our quest for excellence always.\nAwards & Recognition\nRIL is Great Place to Work\u00ae certified for the 5th consecutive year\nRIL ranks #86 in Fortune Global 500; retains position as top-ranked Indian company on the list\nReliance (RIL, Reliance Retail, and Reliance Jio) recognised among 'India's Best Employers Among Nation-Builders' by Great Place to Work\u00ae India.\nRIL retains position as top-ranked Indian company in Forbes\u2019 Global 2000 list for 2024.\nReliance is among \u2018TIME100 Most Influential Companies 2024\u2019\nRIL among world\u2019s most valuable brands, Jio among world\u2019s 25 strongest brands in \u2018Brand Finance Global 500 2024\u2019 list\nRIL retains #1 position on \u20182023 Burgundy Private Hurun India 500\u2019 list of most valuable companies for 3rd consecutive time\nRIL, Reliance Retail, and Jio are \u2018Great Place to Work\u2019 certified\nRIL and Reliance Retail among BW Businessworld\u2019s \u2018Most Respected Companies\u2019",
+    "nlp": {
+      "keywords": [
+        [
+          "and",
+          43
+        ],
+        [
+          "our",
+          28
+        ],
+        [
+          "the",
+          23
+        ],
+        [
+          "reliance",
+          20
+        ],
+        [
+          "india",
+          19
+        ],
+        [
+          "for",
+          18
+        ],
+        [
+          "with",
+          10
+        ],
+        [
+          "among",
+          10
+        ],
+        [
+          "that",
+          9
+        ],
+        [
+          "company",
+          8
+        ],
+        [
+          "ril",
+          8
+        ],
+        [
+          "growth",
+          7
+        ],
+        [
+          "most",
+          7
+        ],
+        [
+          "all",
+          7
+        ],
+        [
+          "are",
+          7
+        ]
+      ],
+      "sentiment_polarity": 0.3066658122579176,
+      "sentiment_subjectivity": 0.4163035429482799,
+      "readability": {
+        "flesch_reading_ease": 33.44734878587201,
+        "smog_index": 16.18397175987059,
+        "gunning_fog": 17.23655629139073
+      }
+    }
+  },
+  {
+    "name": "AXA",
+    "sector": "Insurance",
+    "base_url": "https://axa.com/",
+    "about_url": "https://axa.com/about-us",
+    "text": "We protect properties\nThe property-casualty business includes the insurance of personal property (cars, homes) and liability (personal or professional). It covers a broad range of products and services designed for our individual and business clients.",
+    "nlp": {
+      "keywords": [
+        [
+          "and",
+          3
+        ],
+        [
+          "the",
+          2
+        ],
+        [
+          "property",
+          2
+        ],
+        [
+          "business",
+          2
+        ],
+        [
+          "personal",
+          2
+        ],
+        [
+          "protect",
+          1
+        ],
+        [
+          "properties",
+          1
+        ],
+        [
+          "casualty",
+          1
+        ],
+        [
+          "includes",
+          1
+        ],
+        [
+          "insurance",
+          1
+        ],
+        [
+          "cars",
+          1
+        ],
+        [
+          "homes",
+          1
+        ],
+        [
+          "liability",
+          1
+        ],
+        [
+          "professional",
+          1
+        ],
+        [
+          "covers",
+          1
+        ]
+      ],
+      "sentiment_polarity": 0.0325,
+      "sentiment_subjectivity": 0.28250000000000003,
+      "readability": {
+        "flesch_reading_ease": 12.62107142857144,
+        "smog_index": 15.903189008614273,
+        "gunning_fog": 18.428571428571427
+      }
+    }
+  },
+  {
+    "name": "Banco Santander",
+    "sector": "Finance",
+    "base_url": "https://www.santanderbank.com/",
+    "about_url": "https://www.santanderbank.com/about",
+    "text": "About Us - Santander\nAbout us\nAs a global leader in financial services, we\u2019re transforming businesses and empowering communities with product, services, and contributions, but more importantly, we\u2019re enriching the lives of our clients. See the work we\u2019ve done and how we\u2019re building a better world for everyone around us.\nOur Story\nFrom humble beginnings to a globally connected bank, we\u2019re simplifying banking for millions of clients with our decades of international expertise.\nOur Commitment\nResponsible banking includes helping our communities prosper, succeed, and grow. For individuals and families, small businesses, and entire neighborhoods, we work to build paths to prosperity through a range of philanthropic initiatives, outreach programs targeting underserved groups, and by supporting the green economy.\nNews & Media\nFind the latest news, media events, and press releases.\nLeadership & Shareholders\nSee the latest shareholder information and other resources for\nshareholders and investors.\nshareholders and investors.\nFind Us\nBranches across the Northeast and in Miami, Florida, plus 2,000+ ATMs.\nMore about Santander\nTo continue learning about us, explore the pages below:",
+    "nlp": {
+      "keywords": [
+        [
+          "and",
+          12
+        ],
+        [
+          "the",
+          7
+        ],
+        [
+          "our",
+          5
+        ],
+        [
+          "about",
+          4
+        ],
+        [
+          "for",
+          4
+        ],
+        [
+          "shareholders",
+          3
+        ],
+        [
+          "santander",
+          2
+        ],
+        [
+          "services",
+          2
+        ],
+        [
+          "businesses",
+          2
+        ],
+        [
+          "communities",
+          2
+        ],
+        [
+          "with",
+          2
+        ],
+        [
+          "more",
+          2
+        ],
+        [
+          "clients",
+          2
+        ],
+        [
+          "see",
+          2
+        ],
+        [
+          "work",
+          2
+        ]
+      ],
+      "sentiment_polarity": 0.15147058823529413,
+      "sentiment_subjectivity": 0.4235294117647059,
+      "readability": {
+        "flesch_reading_ease": 28.3423529411765,
+        "smog_index": 15.774802946060372,
+        "gunning_fog": 18.094117647058823
+      }
+    }
+  },
+  {
+    "name": "Goldman Sachs",
+    "sector": "Finance",
+    "base_url": "https://www.goldmansachs.com/",
+    "about_url": "https://www.goldmansachs.com/about-us",
+    "text": "We are the world\u2019s preeminent investment bank, serving the most influential corporations and institutions with financing, advisory services, and liability management.\nWe are the world\u2019s preeminent investment bank, serving the most influential corporations and institutions with financing, advisory services, and liability management.\nAs one of the broadest and deepest global franchises, our experienced traders, sales professionals, and risk managers pursue every opportunity to deliver long-term performance for clients across a diverse range of trading, risk, and lending services.\nAs one of the broadest and deepest global franchises, our experienced traders, sales professionals, and risk managers pursue every opportunity to deliver long-term performance for clients across a diverse range of trading, risk, and lending services.\nSources: Dealogic \u2013 January 1, 2024 through December 31, 2024. M&A refers to both announced and completed M&A. Equity capital markets (ECM) refers to Equity & Equity-related Offerings; FICC and Equities rankings based on cumulative publicly-disclosed net revenues (2020-3Q24 YTD). Global Banking & Markets (GBM) revenue wallet share since Investor Day 2020 (3Q24 YTD vs. 2019) based on reported revenues for Advisory, Equity underwriting, Debt underwriting, FICC and Equities. Peers include MS, JPM, BAC, C, BARC, DB, UBS, CS (through FY22).\nWith more than $2 trillion in assets under supervision, our leading global active asset manager with a top alternatives business delivers investment and advisory services across public and private markets for the world\u2019s foremost institutions, financial advisors, and individuals.\nWith more than $2 trillion in assets under supervision, our leading global active asset manager with a top alternatives business delivers investment and advisory services across public and private markets for the world\u2019s foremost institutions, financial advisors, and individuals.\nOur premier wealth management franchise harnesses the firm\u2019s global network, unique sourcing capabilities, and deep experience to provide personalized perspectives, advice, and offerings tailored to the unique financial and planning needs of ultra-high net worth individuals, family offices, foundations, executives, and employees.\nOur premier wealth management franchise harnesses the firm\u2019s global network, unique sourcing capabilities, and deep experience to provide personalized perspectives, advice, and offerings tailored to the unique financial and planning needs of ultra-high net worth individuals, family offices, foundations, executives, and employees.\nFor Corporate Treasurers and Payments Executives, Transaction Banking (TxB\u2122) is a tech-forward banking platform of choice to meet their electronic payment, foreign exchange, and liquidity needs.\nFor major brands, Enterprise Partnerships has embedded financial products \u2014 including credit cards, installment financing, and high yield savings accounts \u2014 into their ecosystems to help them serve millions of customers.\nOur signature newsletter with insights and analysis from across the firm\nBy submitting this information, you agree that the information you are providing is subject to Goldman Sachs\u2019 privacy policy and Terms of Use. You consent to receive our newletter via email.",
+    "nlp": {
+      "keywords": [
+        [
+          "and",
+          32
+        ],
+        [
+          "the",
+          14
+        ],
+        [
+          "our",
+          8
+        ],
+        [
+          "with",
+          7
+        ],
+        [
+          "global",
+          7
+        ],
+        [
+          "for",
+          7
+        ],
+        [
+          "services",
+          6
+        ],
+        [
+          "advisory",
+          5
+        ],
+        [
+          "across",
+          5
+        ],
+        [
+          "financial",
+          5
+        ],
+        [
+          "world",
+          4
+        ],
+        [
+          "investment",
+          4
+        ],
+        [
+          "institutions",
+          4
+        ],
+        [
+          "management",
+          4
+        ],
+        [
+          "risk",
+          4
+        ]
+      ],
+      "sentiment_polarity": 0.1280925925925926,
+      "sentiment_subjectivity": 0.32403703703703707,
+      "readability": {
+        "flesch_reading_ease": 12.203611111111115,
+        "smog_index": 18.83193753551143,
+        "gunning_fog": 21.28608031534861
+      }
+    }
+  },
+  {
+    "name": "Tencent",
+    "sector": "Technology",
+    "base_url": "https://www.tencent.com/",
+    "about_url": "https://www.tencent.com/about",
+    "text": "\u817e\u8baf\u6210\u7acb\u4e8e1998\u5e74\uff0c\u603b\u90e8\u4f4d\u4e8e\u4e2d\u56fd\u6df1\u5733\u3002\u516c\u53f8\u4e00\u76f4\u79c9\u627f\u79d1\u6280\u5411\u5584\u7684\u5b97\u65e8\u3002\u6211\u4eec\u7684\u901a\u4fe1\u548c\u793e\u4ea4\u670d\u52a1\u8fde\u63a5\u5168\u7403\u903e10\u4ebf\u4eba\uff0c\u5e2e\u52a9\u4ed6\u4eec\u4e0e\u4eb2\u53cb\u8054\u7cfb\uff0c\u7545\u4eab\u4fbf\u6377\u7684\u51fa\u884c\u3001\u652f\u4ed8\u548c\u5a31\u4e50\u751f\u6d3b\u3002\n\u817e\u8baf\u53d1\u884c\u591a\u6b3e\u98ce\u9761\u5168\u7403\u7684\u7535\u5b50\u6e38\u620f\u53ca\u5176\u4ed6\u4f18\u8d28\u6570\u5b57\u5185\u5bb9\uff0c\u4e3a\u5168\u7403\u7528\u6237\u5e26\u6765\u4e30\u5bcc\u7684\u4e92\u52a8\u5a31\u4e50\u4f53\u9a8c\u3002\n\u817e\u8baf\u8fd8\u63d0\u4f9b\u4e91\u8ba1\u7b97\u3001\u5e7f\u544a\u3001\u91d1\u878d\u79d1\u6280\u7b49\u4e00\u7cfb\u5217\u4f01\u4e1a\u670d\u52a1\uff0c\u652f\u6301\u5408\u4f5c\u4f19\u4f34\u5b9e\u73b0\u6570\u5b57\u5316\u8f6c\u578b\uff0c\u4fc3\u8fdb\u4e1a\u52a1\u53d1\u5c55\u3002\n\u817e\u8baf2004 \u5e74\u4e8e\u9999\u6e2f\u8054\u5408\u4ea4\u6613\u6240\u4e0a\u5e02\u3002\n\u4e00\u5207\u4ee5\u7528\u6237\u4ef7\u503c\u4e3a\u4f9d\u5f52\uff0c\n\u5c06\u793e\u4f1a\u8d23\u4efb\u878d\u5165\u4ea7\u54c1\u53ca\u670d\u52a1\u4e4b\u4e2d\uff1b\n\u63a8\u52a8\u79d1\u6280\u521b\u65b0\u4e0e\u6587\u5316\u4f20\u627f\uff0c\n\u52a9\u529b\u5404\u884c\u5404\u4e1a\u5347\u7ea7\uff0c\n\u4fc3\u8fdb\u793e\u4f1a\u7684\u53ef\u6301\u7eed\u53d1\u5c55\u3002\n\u613f\u666f\u53ca\u4f7f\u547d\n\u7528\u6237\u4e3a\u672c\uff0c\u79d1\u6280\u5411\u5584\n\u4e00\u5207\u4ee5\u7528\u6237\u4ef7\u503c\u4e3a\u4f9d\u5f52\uff0c\u5c06\u793e\u4f1a\u8d23\u4efb\u878d\u5165\u4ea7\u54c1\u53ca\u670d\u52a1\u4e4b\u4e2d\uff1b\n\u63a8\u52a8\u79d1\u6280\u521b\u65b0\u4e0e\u6587\u5316\u4f20\u627f\uff0c\u52a9\u529b\u5404\u884c\u5404\u4e1a\u5347\u7ea7\uff0c\u4fc3\u8fdb\u793e\u4f1a\u7684\u53ef\u6301\u7eed\u53d1\u5c55\u3002\nCDG\n\u4f01\u4e1a\u53d1\u5c55\u4e8b\u4e1a\u7fa4\nCSIG\n\u4e91\u4e0e\u667a\u6167\u4ea7\u4e1a\u4e8b\u4e1a\u7fa4\nIEG\n\u4e92\u52a8\u5a31\u4e50\u4e8b\u4e1a\u7fa4\nPCG\n\u5e73\u53f0\u4e0e\u5185\u5bb9\u4e8b\u4e1a\u7fa4\nTEG\n\u6280\u672f\u5de5\u7a0b\u4e8b\u4e1a\u7fa4\nWXG\n\u5fae\u4fe1\u4e8b\u4e1a\u7fa4\n\u9a6c\u5316\u817e\n\u4e3b\u8981\u521b\u529e\u4eba\n\u8463\u4e8b\u4f1a\u4e3b\u5e2d\u517c\u9996\u5e2d\u6267\u884c\u5b98\n\u5218\u70bd\u5e73\n\u603b\u88c1\n\u8bb8\u6668\u6654\n\u4e3b\u8981\u521b\u529e\u4eba\n\u9996\u5e2d\u4fe1\u606f\u5b98\n\u4efb\u5b87\u6615\n\u9996\u5e2d\u8fd0\u8425\u5b98\n\u4e92\u52a8\u5a31\u4e50\u4e8b\u4e1a\u7fa4\u603b\u88c1\n\u5e73\u53f0\u4e0e\u5185\u5bb9\u4e8b\u4e1a\u7fa4\u603b\u88c1\n\u5f20\u5c0f\u9f99\n\u96c6\u56e2\u9ad8\u7ea7\u6267\u884c\u526f\u603b\u88c1\n\u5fae\u4fe1\u4e8b\u4e1a\u7fa4\u603b\u88c1\nJames\nMitchell\n\u9996\u5e2d\u6218\u7565\u5b98\n\u96c6\u56e2\u9ad8\u7ea7\u6267\u884c\u526f\u603b\u88c1\n\u6c64\u9053\u751f\n\u96c6\u56e2\u9ad8\u7ea7\u6267\u884c\u526f\u603b\u88c1\n\u4e91\u4e0e\u667a\u6167\u4ea7\u4e1a\u4e8b\u4e1a\u7fa4\u603b\u88c1\n\u5362\u5c71\n\u96c6\u56e2\u9ad8\u7ea7\u6267\u884c\u526f\u603b\u88c1\n\u6280\u672f\u5de5\u7a0b\u4e8b\u4e1a\u7fa4\u603b\u88c1\n\u9a6c\u6653\u8f76\n\u96c6\u56e2\u9ad8\u7ea7\u526f\u603b\u88c1\n\u6797\u749f\u9a85\n\u96c6\u56e2\u9ad8\u7ea7\u526f\u603b\u88c1\n\u7f57\u7855\u701a\n\u9996\u5e2d\u8d22\u52a1\u5b98\n\u96c6\u56e2\u9ad8\u7ea7\u526f\u603b\u88c1\n\u90ed\u51ef\u5929\n\u96c6\u56e2\u9ad8\u7ea7\u526f\u603b\u88c1\n\u595a\u4e39\n\u96c6\u56e2\u9ad8\u7ea7\u526f\u603b\u88c1\n\u6768\u56fd\u5b89\n\u9ad8\u7ea7\u7ba1\u7406\u987e\u95ee\n\u5f20\u5fd7\u4e1c\n\u4e3b\u8981\u521b\u529e\u4eba\n\u7ec8\u8eab\u8363\u8a89\u987e\u95ee\n\u817e\u8baf\u5b66\u5802\u8363\u8a89\u9662\u957f\n\u9648\u4e00\u4e39\n\u4e3b\u8981\u521b\u529e\u4eba\n\u7ec8\u8eab\u8363\u8a89\u987e\u95ee\n\u817e\u8baf\u516c\u76ca\u6148\u5584\u57fa\u91d1\u4f1a\u53d1\u8d77\u4eba\u517c\u8363\u8a89\u7406\u4e8b\u957f\n\u66fe\u674e\u9752\n\u4e3b\u8981\u521b\u529e\u4eba\n\u7ec8\u8eab\u8363\u8a89\u987e\u95ee\n\u575a\u5b88\u5e95\u7ebf\uff0c\u4ee5\u5fb7\u4e3a\u5148\uff0c\u5766\u8bda\u516c\u6b63\u4e0d\u552f\u4e0a\n\u65e0\u529f\u4fbf\u662f\u8fc7\uff0c\u52c7\u4e8e\u7a81\u7834\u6709\u62c5\u5f53\n\u5f00\u653e\u534f\u540c\uff0c\u6301\u7eed\u8fdb\u5316\n\u8d85\u8d8a\u521b\u65b0\uff0c\u63a2\u7d22\u672a\u6765\n\u4e9a\u592a\u5730\u533a\n7-9 Fanshawe Street, Auckland\n8 T One Building, Soi Sukhumvit 40, Sukhumvit Road, Phra Khanong, Khlong Toei, Bangkok\n\u90ae\u7f16\uff1a10110\n60 Marcus Clarke Street Canberra City\n\u6e7e\u4ed4\n\u7687\u540e\u5927\u9053\u4e1c1\u53f7\u592a\u53e4\u5e7f\u573a\u4e09\u671f29\u697c\n\u7535\u8bdd\uff1a+852-31485100\n\u5c16\u6c99\u5480\n\u5e7f\u4e1c\u905315\u53f7\u6e2f\u5a01\u5927\u53a65\u5ea737\u697c\n\u7535\u8bdd\uff1a+852-31485100\nSpaze I-Tech Park, Sector 49, Gurgaon-Sohna Road, Gurgaon Haryana\n\u90ae\u7f16\uff1a122001\nF-7/2 Rana market, Islamabad\nMenara BCA, Jl. M.H. Thamrin No.1, RT.1/RW.5, Menteng, Central Jakarta City, Jakarta\n\u90ae\u7f16\uff1a10310\nCentrepoint South Tower, Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur\n\u90ae\u7f16\uff1a59200\nTencent Korea, 40F Gangnam Finance Center, 152, Teheran-ro, Gangnam-gu, Seoul\n\u90ae\u7f16\uff1a06236\n79 Robinson Road #07-01, Singapore\n\u90ae\u7f16\uff1a068897\nLevel 17, 175 Pitt Street, Sydney\n\u90ae\u7f16\uff1aNSW 2000\n1-23-1 Toranomon, Minato-ku, Tokyo\uff0cToranomon Hills Mori Tower\n\u90ae\u7f16\uff1a105-6329\nBusiness Tower 1-17-1Toranomon,Minato-ku,Tokyo\n\u90ae\u7f16\uff1a150-6490\nCompass Offices, Inogate Osaka, 3 Chome-2-123 Umeda, Kita Ward, Osaka, Tencent Japan GK\n\u90ae\u7f16\uff1a530-0001\n\u7f8e\u6d32\u5730\u533a\n2747 Park Boulevard, Palo Alto\n\u90ae\u7f16\uff1aCA 94306\n12777 Jefferson Blvd, Los Angeles\n\u90ae\u7f16\uff1aCA 90066\n>15201 Laguna Canyon RD, Irvine\n\u90ae\u7f16\uff1aCA 92618\n929 108th Ave., Bellevue\n\u90ae\u7f16\uff1aWA 98004\n7 Bryant Park, New York\n\u90ae\u7f16\uff1aNY 10018\n700 K Street, N.W., Washington, D.C.\n\u90ae\u7f16\uff1aDC 20001\n26 Wellington Street East, Toronto\n\u90ae\u7f16\uff1aM5E 1S2\n7450 Mile End Street, Montreal\n\u90ae\u7f16\uff1aH2R 2Z6\nAv. Paseo De La Reforma 26, CP 06600 Colonia: Ju\u00e1rez, Mexico City\nTorre A, Av. das Na\u00e7\u00f5es Unidas, 14261 - Vila Gertrudes, S\u00e3o Paulo - SP\n\u90ae\u7f16\uff1aCEP 04730-090\n\u6b27\u6d32\nBuitenveldertselaan 5, 1082 VA, Amsterdam\n\u90ae\u7f16\uff1a1082 VA\nDesign Offices Berlin Leipziger Platz, Leipziger Platz 16,10117 Berlin\n\u90ae\u7f16\uff1a10117\nDesign Offices Frankfurt Westendcarree, Gervinusstrasse 17, 60322 Frankfurt am Main\n\u90ae\u7f16\uff1a60322\nSmartofficeAc\u0131badem,\u00c7e\u00e7en Sok. 34660 \u00dcsk\u00fcdar/\u0130stanbul\n\u90ae\u7f16\uff1a34660\n22nd floor, The Broadgate Tower, 20 Primrose Street, London\n\u90ae\u7f16\uff1aEC2A 2EW\nClockwise, Edward Pavillion, Royal Albert Dock, Liverpool\n\u90ae\u7f16\uff1aL3 4AF\nDesign Offices, Brienner Str. 45 a-d, Munich\n\u90ae\u7f16\uff1a80333\n32 Rue de Tr\u00e9vise, Morning Tr\u00e9vise, Paris\n\u90ae\u7f16\uff1a75009\nWeWork Mennica Legacy Tower, Prosta 20, Warsaw\n\u90ae\u7f16\uff1a00-850\n\u4e2d\u4e1c\u5730\u533a\u53ca\u975e\u6d32\nRoad 18, Sarayat EI Maddi, Cairo\nInnovation Hub Building 2, DIC, Dubai\nHamad Tower, King Fahd Branch Road, AI Olays, Riyadh, 12212\n\u9a6c\u5316\u817e\n\u4e3b\u8981\u521b\u529e\u4eba\n\u8463\u4e8b\u4f1a\u4e3b\u5e2d\u517c\u9996\u5e2d\u6267\u884c\u5b98\n\u9a6c\u5316\u817e\uff0c\u817e\u8baf\u4e3b\u8981\u521b\u529e\u4eba\u4e4b\u4e00\uff0c\u8463\u4e8b\u4f1a\u4e3b\u5e2d\u517c\u9996\u5e2d\u6267\u884c\u5b98\uff0c\u5168\u9762\u8d1f\u8d23\u516c\u53f8\u6218\u7565\u89c4\u5212\u3001\u5b9a\u4f4d\u548c\u7ba1\u7406\u3002\u57281998\u5e74\u521b\u7acb\u817e\u8baf\u524d\uff0c\u9a6c\u5316\u817e\u66fe\u5728\u4e2d\u56fd\u7535\u4fe1\u670d\u52a1\u548c\u4ea7\u54c1\u4f9b\u5e94\u5546\u2014\u6df1\u5733\u6da6\u8fc5\u901a\u8baf\u53d1\u5c55\u6709\u9650\u516c\u53f8\u5de5\u4f5c\uff0c\u4e3b\u7ba1\u4e92\u8054\u7f51\u4f20\u547c\u7cfb\u7edf\u7684\u7814\u7a76\u5f00\u53d1\u3002\u9a6c\u5316\u817e\u6bd5\u4e1a\u4e8e\u6df1\u5733\u5927\u5b66\u8ba1\u7b97\u673a\u53ca\u5e94\u7528\u4e13\u4e1a\uff0c\u83b7\u7406\u5b66\u58eb\u5b66\u4f4d\u3002",
+    "nlp": {
+      "keywords": [
+        [
+          "street",
+          7
+        ],
+        [
+          "\u4e3b\u8981\u521b\u529e\u4eba",
+          6
+        ],
+        [
+          "tower",
+          6
+        ],
+        [
+          "\u96c6\u56e2\u9ad8\u7ea7\u526f\u603b\u88c1",
+          5
+        ],
+        [
+          "road",
+          5
+        ],
+        [
+          "\u96c6\u56e2\u9ad8\u7ea7\u6267\u884c\u526f\u603b\u88c1",
+          4
+        ],
+        [
+          "city",
+          4
+        ],
+        [
+          "offices",
+          4
+        ],
+        [
+          "\u9a6c\u5316\u817e",
+          3
+        ],
+        [
+          "\u8463\u4e8b\u4f1a\u4e3b\u5e2d\u517c\u9996\u5e2d\u6267\u884c\u5b98",
+          3
+        ],
+        [
+          "\u7ec8\u8eab\u8363\u8a89\u987e\u95ee",
+          3
+        ],
+        [
+          "park",
+          3
+        ],
+        [
+          "design",
+          3
+        ],
+        [
+          "\u4e00\u5207\u4ee5\u7528\u6237\u4ef7\u503c\u4e3a\u4f9d\u5f52",
+          2
+        ],
+        [
+          "\u5c06\u793e\u4f1a\u8d23\u4efb\u878d\u5165\u4ea7\u54c1\u53ca\u670d\u52a1\u4e4b\u4e2d",
+          2
+        ]
+      ],
+      "sentiment_polarity": 0.040606060606060604,
+      "sentiment_subjectivity": 0.22757575757575754,
+      "readability": {
+        "flesch_reading_ease": 31.538365384615403,
+        "smog_index": 16.52667757954773,
+        "gunning_fog": 24.012820512820515
+      }
+    }
+  },
+  {
+    "name": "PepsiCo",
+    "sector": "Food & Beverage",
+    "base_url": "https://www.pepsico.com/",
+    "about_url": "https://www.pepsico.com/who-we-are",
+    "text": "Global Leader in Convenient Foods and Beverages\nPepsiCo products are enjoyed by consumers more than one billion times a day in more than 200 countries and territories around the world. PepsiCo generated nearly $92 billion in net revenue in 2024, driven by a complementary beverage and convenient foods portfolio that includes Lay\u2019s, Doritos, Cheetos, Gatorade, Pepsi-Cola, Mountain Dew, Quaker, and SodaStream. PepsiCo\u2019s product portfolio includes a wide range of enjoyable foods and beverages, including many iconic brands that generate more than $1 billion each in estimated annual retail sales.\nPepsi-Cola & Frito-Lay, a perfect match since 1965\nPepsiCo\nPepsiCo Beverages\nNorth America\nWith roots dating back to 1898, PepsiCo Beverages North America (PBNA) is one of the largest beverage companies in North America today, generating more than $27 billion in net revenue in 2023.\nPepsiCo Foods North America\nIn 1932, Herman W. Lay began a potato chip business in Nashville, Tennessee. Not long after, he purchased the manufacturer and formed H.W. Lay & Company. In 1961, the company merged with the Frito Company, becoming Frito-Lay Inc.\nIn 1965, Frito-Lay Inc. merged with Pepsi-Cola to form PepsiCo.\nQuaker Foods North America\nQuaker Oats registered as the first trademark for a breakfast cereal in 1877. In 1888, seven of the largest American oat millers\u2014including the Consolidated principals\u2014united as the American Cereal Company, and in 1901 American Cereal changed its name to The Quaker Oats Company. Inspired by the wholesome goodness of the humble oat, Quaker has been the leading expert in oats and committed to making oats delicious and convenient by developing everything from breakfast items to snacks to tasty recipe ideas.\nSectors\nPepsiCo Global\nLatin America\nOver the course of more than 100 years, PepsiCo\u2019s Latin America business has grown to become one of the strongest food and beverage manufacturers in the region by working closely with local entrepreneurs and investing in lasting win-win partnerships with our suppliers and farmers, investors, consumers, and communities.\nEurope\nPepsiCo\u2019s businesses have been operating in markets across our Europe sector for more than 80 years, manufacturing and supplying delicious foods and beverages that are enjoyed by millions of consumers each day.\nAsia Pacific, Australia, New Zealand and China (APAC)\nThe APAC sector consists of the Asia Pacific, Australia/New Zealand and China regions, offering a number of leading snack brands such as Cheetos, Doritos, Lay\u2019s and Smith\u2019s as well as various beverage brands including 7UP, Aquafina, Mirinda, Mountain Dew and Pepsi.\nAfrica, Middle East and South Asia (AMESA)\nThe AMESA sector consists of the Africa, Middle East and South Asia regions and features many leading global snack brands, including Lay\u2019s, Cheetos and Doritos, along with local favorites such as Chipsy (Egypt), Simba (South Africa) and Kurkure (India and Pakistan), as well as various beverage brands like 7UP, Pepsi, Aquafina, Mountain Dew, Mirinda and Sting.\nthat pop\nMoments",
+    "nlp": {
+      "keywords": [
+        [
+          "and",
+          26
+        ],
+        [
+          "the",
+          20
+        ],
+        [
+          "pepsico",
+          11
+        ],
+        [
+          "lay",
+          8
+        ],
+        [
+          "america",
+          7
+        ],
+        [
+          "foods",
+          6
+        ],
+        [
+          "more",
+          6
+        ],
+        [
+          "than",
+          6
+        ],
+        [
+          "with",
+          6
+        ],
+        [
+          "beverages",
+          5
+        ],
+        [
+          "beverage",
+          5
+        ],
+        [
+          "pepsi",
+          5
+        ],
+        [
+          "quaker",
+          5
+        ],
+        [
+          "brands",
+          5
+        ],
+        [
+          "north",
+          5
+        ]
+      ],
+      "sentiment_polarity": 0.24153409090909092,
+      "sentiment_subjectivity": 0.36844696969696966,
+      "readability": {
+        "flesch_reading_ease": 28.32507166548214,
+        "smog_index": 17.37919286519448,
+        "gunning_fog": 18.18341625207297
+      }
+    }
+  }
+]
